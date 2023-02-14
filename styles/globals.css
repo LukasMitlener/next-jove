@@ -1,26 +1,133 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-* {
-  box-sizing: border-box;
-}
 
-@media (prefers-color-scheme: dark) {
+@layer components {
   html {
-    color-scheme: dark;
+    @apply scroll-smooth
   }
-  body {
-    color: white;
-    background: black;
+
+  p {
+    @apply text-lg text-gray-700 m-0 leading-normal
+  }
+
+  h2 {
+    @apply text-4xl font-bold text-center
+  }
+
+  h3 {
+    @apply text-2xl my-6 text-gray-700
+  }
+
+  li {
+    @apply p-4  cursor-pointer
+  }
+
+  button {
+    @apply text-white border bg-main-blue border-main-blue
+    hover:bg-transparent hover:text-main-blue rounded-md
   }
 }
+
+
+.container {
+  max-width: 60rem;
+}
+/*==================== ABOUT ====================*/
+.about__grid {
+  display: grid;
+  gap: 1.5rem;
+}
+.about__container{
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.about__img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  border-radius: .5rem;
+  justify-self: center;
+  align-self: center;
+}
+
+.about__description{
+  text-align: center;
+  margin-bottom: 2,5rem;
+}
+
+@media screen and (min-width: 568px){
+  .about__container{
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (min-width: 768px){
+
+  .about__container{
+    column-gap: 5rem;
+  }
+
+  .about__img{
+    width: 350px;
+  }
+
+  .about__description{
+    text-align: initial;
+  }
+}
+@media screen and (min-width: 1024px){
+  .about__img{
+    width: 650px;
+  }
+}
+/*==================== VIDEO ====================*/
+.video {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  width: 100%;
+  height: auto;
+  min-height: auto;
+  background-color: var(--dark);
+  background-size: cover;
+}
+
+iframe {
+
+  display: block;
+  margin: auto;
+  width: 90%;
+  height: calc(.5625 * 80vw);
+  max-width: 1280px;
+  max-height: 720px;
+  min-width: 320px;
+  min-height: 180px;
+  /* width: 100%;
+  aspect-ratio: 16/9; */
+}
+
+.padding_video {
+  padding-top: 56.25%
+}
+
+.cta_bgimage {
+  background-position: 50%;
+  background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/006.webp');
+  height: 500px;
+}
+
+.blue__gradient {
+  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #3FB1FF 100%);
+  filter: blur(123px);
+}
+
+
+
+@media (max-width: 991px) {
+  iframe {
+    max-width: 90%;
+  }
+}
+
