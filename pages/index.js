@@ -3,15 +3,12 @@ import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
 import About from "../components/About"
 import Proc from "../components/Proc"
-
 import Video1 from "../components/Video1"
 import Blog1 from "../components/Blog1"
 import Pricing from "../components/Pricing"
-
 import Testimonials from "../components/Testimonials"
-
-import Cta from "../components/Cta"
-import Footer2 from "../components/Footer2"
+import Cta1 from "../components/Cta1"
+import Footer from "../components/Footer"
 
 export default function Home() {
   return (
@@ -29,13 +26,13 @@ export default function Home() {
       <Navbar/ >
       <Hero />
       <About />
-      <Proc />
       <Video1 />
+      <Proc />
       <Blog1 />
       <Testimonials />
       <Pricing />
-      <Cta />
-      <Footer2 />
+      <Cta1 />
+      <Footer />
     </div>
   )
 }

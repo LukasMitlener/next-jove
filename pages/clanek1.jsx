@@ -1,15 +1,24 @@
 import Link from 'next/link'
-import Navbar from "../components/Navbar"
-import Footer2 from "../components/Footer2"
+import Image from 'next/image'
+import logo from "../assets/jove-logo.png"
+import bp1 from '../assets/blogpic1.webp'
+import Footer from "../components/Footer"
 
 const clanek1 = () => {
   return (
     <div>
-    <Navbar/ >
-      <div className="max-w-[1240px] px-6 py-16 mx-auto">
-        
-        <article className="space-y-8 dark:bg-gray-800 dark:text-gray-50">
+      <div className='max-w-[1240px] m-auto h-[80px] bg-transparent drop-shadow-lg px-6'>
+        <div className='flex justify-between items-center w-full h-full'>
+          <div className='flex items-center'>
+            <a href='/'><Image src={logo} alt='/' style={{ width: '200px'}} /></a>
+          </div>
+        </div>
+      </div>
+
+      <div className="max-w-[1240px] px-6 pb-8 pt-4 mx-auto">
+        <article className="space-y-8">
           <div className="space-y-6">
+            <Image className="object-cover object-center w-full h-64 rounded-lg lg:h-80" src={bp1} alt="" />
             <h1 className="text-4xl font-bold md:tracking-tight md:text-5xl">Jak se jezdí na kolečkových lyžích a jaké vybrat?</h1>
             <div className="flex flex-col items-start justify-between w-full md:flex-row md:items-center dark:text-gray-400">
               <div className="flex items-center md:space-x-2">
@@ -55,21 +64,20 @@ const clanek1 = () => {
             </p>
           </div>
         </article>
-        <div>
 
+        <div>
           <div className="space-y-2">
             <h4 className="text-lg font-semibold">Další články</h4>
             <ul className="ml-4 space-y-1 list-disc">
               <li>
-                <Link rel="noopener noreferrer" href="/clanek2" className="hover:underline">Proč začít jezdit na kolečkových lyžích JOVE?</Link>
+                <Link href="/clanek2" className="hover:underline">Proč začít jezdit na kolečkových lyžích JOVE?</Link>
               </li>
-
             </ul>
           </div>
         </div>
-
+      
       </div>
-    <Footer2 />
+      <Footer />
     </div>
   )
 }
