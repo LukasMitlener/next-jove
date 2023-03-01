@@ -10,7 +10,7 @@ const Cta1 = () => {
 
 
             <div className="flex items-start">
-              <h2 className="text-start mb-6">
+              <h2 className="text-start uppercase mb-6">
                 Jste připraveni zažít unikátní zážitek z <span className="text-main-blue">jízdy?</span>
               </h2>
             </div>
@@ -19,14 +19,21 @@ const Cta1 = () => {
             &#128161; PRO TIP: Možnost vylaserovat cokoliv dle Vašeho výběru (věnování, slogan, obrázek,...)
             </p>
             <hr className="mb-5 border-gray-300" />
-            <div className="flex items-center space-x-4">
-              <p className="flex items-center">
-                &#128222; 123456789
+            <div className="flex items-center space-x-2">
+              <p>
+                &#128222; 
+              </p>
+              <p className='pr-12'>
+                123456789
               </p>
 
               <p className="flex items-center">
-                &#128231; contact@business.com
+                &#128231; 
+                
               </p>
+              <a className="text-lg" href="mailto:vejnar3@seznam.cz">
+                  vejnar3@seznam.cz
+              </a>
             </div>
           </div>
           <div>
