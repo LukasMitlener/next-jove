@@ -10,13 +10,13 @@ const Navbar = () => {
     const handleClose =()=> setNav(!nav)
 
   return (
-    <div className='max-w-[1240px] m-auto h-[80px] z-10 bg-transparent drop-shadow-lg'>
-      <div className='px-2 flex justify-between items-center w-full h-full'>
+    <div className='max-w-[1240px] m-auto h-[80px] bg-transparent drop-shadow-lg px-6'>
+      <div className='flex justify-between items-center w-full h-full'>
         <div className='flex items-center'>
-          <Image src={logo} alt='/' style={{ width: '200px', marginRight: "50px"}} />
+          <Image src={logo} alt='/' style={{ width: '200px'}} />
         </div>
 
-        <div className='hidden md:flex pr-4 font-semibold'>
+        <div className='hidden md:flex pr-4 text-lg font-semibold'>
           <ul className='hidden md:flex'>
             <li className='hover:text-main-blue'><Link to="about" smooth={true} duration={500}>O JOVE</Link></li>
             <li className='hover:text-main-blue'><Link to="proc" smooth={true} duration={500}>PROČ JOVE?</Link></li>
@@ -26,7 +26,7 @@ const Navbar = () => {
             <li className='hover:text-main-blue'><Link to="cena" smooth={true} offset={-50} duration={500}>CENA</Link></li>
           </ul>
           <div className='pl-8 flex items-center'>
-            <button className='px-8 py-3'><Link to="cta" smooth={true} offset={-50} duration={500}>OBJEDNAT</Link></button>
+            <button className='px-4 py-3'><Link to="cta" smooth={true} offset={-50} duration={500}>OBJEDNAT</Link></button>
           </div>
             
         </div>
