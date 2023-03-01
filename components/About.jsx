@@ -1,11 +1,10 @@
-import styles from "../styles/styles";
 import Image from 'next/image'
 import Balt from '../assets/pepa.webp'
 
 const About = () => {
   return (
-    <div name='about' className='w-full mt-24'>
-      <div className='max-w-[1240px] mx-auto px-12'>
+    <div name='about' className='w-full'>
+      <div className='max-w-[1240px] mx-auto px-6'>
         <div className='px-4 py-12'>
           <h2>
               PŘÍBĚH LYŽÍ <span className="text-main-blue font-bold">JOVE</span>
