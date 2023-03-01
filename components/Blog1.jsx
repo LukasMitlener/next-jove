@@ -6,14 +6,14 @@ import bp2 from '../assets/blogpic2.webp'
 const Blog1 = () => {
   return (
     <div name="blog" className="w-full mt-24">
-        <div class="max-w-[1240px] mx-auto">
+        <div class="max-w-[1240px] mx-auto px-6">
             <div className='px-4 py-12 text-black'>
                 <h2>
                 PÍŠEME O <span className="text-main-blue">KOLEČKOVÉM LYŽOVÁNÍ</span>
                 </h2>
             </div>
 
-            <div class="grid grid-cols-1 gap-16 md:grid-cols-2 xl:grid-cols-2">
+            <div class="grid grid-cols-1 gap-16 md:grid-cols-2 xl:grid-cols-2 ">
                 <div>
                     <Image className="object-cover object-center w-full h-64 rounded-lg lg:h-80" src={bp1} alt="" />
 
@@ -28,14 +28,14 @@ const Blog1 = () => {
 
                         <div className="flex items-center justify-between mt-4">
                             <div>
-                                <p className="text-lg font-medium text-gray-700 dark:text-gray-300 hover:underline hover:text-gray-500">
+                                <p className="text-lg font-medium text-gray-700">
                                     Josef Vejnar
                                 </p>
 
                                 <p className="text-sm text-gray-500 dark:text-gray-400">1. února, 2022</p>
                             </div>
 
-                            <Link href="/clanek1" className="inline-block text-blue-500 underline hover:text-blue-400">Číst více</Link>
+                            <Link href="/clanek1" className="inline-block text-main-blue  hover:text-blue-400">Číst více</Link>
                         </div>
 
                     </div>
@@ -55,14 +55,14 @@ const Blog1 = () => {
 
                         <div className="flex items-center justify-between mt-4">
                             <div>
-                                <p className="text-lg font-medium text-gray-700 dark:text-gray-300 hover:underline hover:text-gray-500">
+                                <p className="text-lg font-medium text-gray-700">
                                     Josef Vejnar
                                 </p>
 
                                 <p className="text-sm text-gray-500 dark:text-gray-400">6. března, 2022</p>
                             </div>
 
-                            <Link href="/clanek2" className="inline-block text-blue-500 underline hover:text-blue-400">Číst více</Link>
+                            <Link href="/clanek2" className="inline-block text-main-blue hover:text-blue-400">Číst více</Link>
                         </div>
 
                     </div>
