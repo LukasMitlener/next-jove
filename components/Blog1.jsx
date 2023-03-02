@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import bp1 from '../assets/blogpic1.webp'
-import bp2 from '../assets/blogpic2.webp'
+import bp1 from '../assets/1.webp'
+import bp2 from '../assets/2.webp'
 
 const Blog1 = () => {
   return (
@@ -19,7 +19,7 @@ const Blog1 = () => {
 
                     <div className="mt-8">
                         <h2 className="mt-4 text-2xl font-semibold text-start">
-                          Jak se jezdí na kolečkových lyžích a jaké vybrat?
+                            <Link href="/clanek1" className="  hover:text-gray-900">Jak se jezdí na kolečkových lyžích a jaké vybrat?</Link>
                         </h2>
 
                         <h3 className="mt-2 text-lg text-gray-700 m-0 leading-normal">
@@ -35,7 +35,7 @@ const Blog1 = () => {
                                 <p className="text-sm text-gray-500 dark:text-gray-400">1. února, 2022</p>
                             </div>
 
-                            <Link href="/clanek1" className="inline-block text-main-blue  hover:text-blue-400">Číst více</Link>
+                            <Link href="/clanek1" className="text-main-blue  hover:text-blue-400">Číst více</Link>
                         </div>
 
                     </div>
@@ -46,11 +46,11 @@ const Blog1 = () => {
 
                     <div className="mt-8">
                         <h2 className="mt-4 text-2xl font-semibold text-start">
-                          Proč začít jezdit na kolečkových lyžích JOVE?
+                            <Link href="/clanek2" className="hover:text-gray-900">Proč začít jezdit na kolečkových lyžích JOVE?</Link>
                         </h2>
 
                         <h3 className="mt-2 text-lg text-gray-700 m-0 leading-normal">
-                          Klasika, skate nebo na soupaž? Jsou vhodné i do terénu? A jsou vůbec kolečkové lyže vhodné i pro začátečníky?
+                            Klasika, skate nebo na soupaž? Jsou vhodné i do terénu? A jsou vůbec kolečkové lyže vhodné i pro začátečníky?
                         </h3>
 
                         <div className="flex items-center justify-between mt-4">
