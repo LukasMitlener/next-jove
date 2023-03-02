@@ -19,7 +19,7 @@ const Blog1 = () => {
 
                     <div className="mt-8">
                         <h2 className="mt-4 text-2xl font-semibold text-start">
-                            <Link href="/clanek1" className="  hover:text-gray-900">Jak se jezdí na kolečkových lyžích a jaké vybrat?</Link>
+                            <Link href="/jak-se-jezdi-na-koleckovych-lyzich-a-jake-vybrat" className="  hover:text-gray-900">Jak se jezdí na kolečkových lyžích a jaké vybrat?</Link>
                         </h2>
 
                         <h3 className="mt-2 text-lg text-gray-700 m-0 leading-normal">
@@ -35,7 +35,7 @@ const Blog1 = () => {
                                 <p className="text-sm text-gray-500 dark:text-gray-400">1. února, 2022</p>
                             </div>
 
-                            <Link href="/clanek1" className="text-main-blue  hover:text-blue-400">Číst více</Link>
+                            <Link href="/jak-se-jezdi-na-koleckovych-lyzich-a-jake-vybrat" className="text-main-blue  hover:text-blue-400">Číst více</Link>
                         </div>
 
                     </div>
@@ -46,7 +46,7 @@ const Blog1 = () => {
 
                     <div className="mt-8">
                         <h2 className="mt-4 text-2xl font-semibold text-start">
-                            <Link href="/clanek2" className="hover:text-gray-900">Proč začít jezdit na kolečkových lyžích JOVE?</Link>
+                            <Link href="/proc-zacit-jezdit-na-koleckovych-lyzich-jove" className="hover:text-gray-900">Proč začít jezdit na kolečkových lyžích JOVE?</Link>
                         </h2>
 
                         <h3 className="mt-2 text-lg text-gray-700 m-0 leading-normal">
@@ -62,7 +62,7 @@ const Blog1 = () => {
                                 <p className="text-sm text-gray-500 dark:text-gray-400">6. března, 2022</p>
                             </div>
 
-                            <Link href="/clanek2" className="inline-block text-main-blue hover:text-blue-400">Číst více</Link>
+                            <Link href="/proc-zacit-jezdit-na-koleckovych-lyzich-jove" className="inline-block text-main-blue hover:text-blue-400">Číst více</Link>
                         </div>
 
                     </div>
