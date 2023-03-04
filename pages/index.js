@@ -3,8 +3,8 @@ import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
 import About from "../components/About"
 import Proc from "../components/Proc"
-import Video1 from "../components/Video1"
-import Blog1 from "../components/Blog1"
+import Video from "../components/Video"
+import Blog from "../components/Blog"
 import Pricing from "../components/Pricing"
 import Testimonials from "../components/Testimonials"
 import Cta1 from "../components/Cta1"
@@ -26,9 +26,9 @@ export default function Home() {
       <Navbar/ >
       <Hero />
       <About />
-      <Video1 />
+      <Video />
       <Proc />
-      <Blog1 />
+      <Blog />
       <Testimonials />
       <Pricing />
       <Cta1 />
