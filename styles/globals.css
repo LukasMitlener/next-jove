@@ -36,94 +36,12 @@
 .container {
   max-width: 60rem;
 }
-/*==================== ABOUT ====================*/
-.about__grid {
-  display: grid;
-  gap: 1.5rem;
-}
-.about__container{
-  grid-template-columns: repeat(2, 1fr);
-}
 
-.about__img{
-  max-width: 100%;
-  display: block;
-  height: auto;
-  border-radius: .5rem;
-  justify-self: center;
-  align-self: center;
-}
 
-.about__description{
-  text-align: center;
-  margin-bottom: 2,5rem;
-}
-
-@media screen and (min-width: 568px){
-  .about__container{
-    grid-template-columns: repeat(2, 1fr);
-    }
-}
-@media screen and (min-width: 768px){
-
-  .about__container{
-    column-gap: 5rem;
-  }
-
-  .about__img{
-    width: 350px;
-  }
-
-  .about__description{
-    text-align: initial;
-  }
-}
-@media screen and (min-width: 1024px){
-  .about__img{
-    width: 650px;
-  }
-}
-/*==================== VIDEO ====================*/
-.video {
-  padding-top: 5%;
-  padding-bottom: 5%;
-  width: 100%;
-  height: auto;
-  min-height: auto;
-  background-color: var(--dark);
-  background-size: cover;
-}
-
-iframe {
-
-  display: block;
-  margin: auto;
-  width: 90%;
-  height: calc(.5625 * 80vw);
-  max-width: 1280px;
-  max-height: 720px;
-  min-width: 320px;
-  min-height: 180px;
-  /* width: 100%;
-  aspect-ratio: 16/9; */
-}
 
 .padding_video {
   padding-top: 56.25%
 }
-
-.cta_bgimage {
-  background-position: 50%;
-  background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/006.webp');
-  height: 500px;
-}
-
-.blue__gradient {
-  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #3FB1FF 100%);
-  filter: blur(123px);
-}
-
-
 
 @media (max-width: 991px) {
   iframe {
