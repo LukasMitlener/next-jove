@@ -2,7 +2,7 @@ import React from 'react'
 
 const Testimonial = () => {
   return (
-    <section name='testimonial' className='w-full mt-36'>
+    <section name='testimonial' className='w-full mt-36 bg-main-blue/30 py-10'>
       <div class="max-w-[1240px] mx-auto px-6">
 
           <div class=" lg:w-3/4 w-full mx-auto text-center text-white">
