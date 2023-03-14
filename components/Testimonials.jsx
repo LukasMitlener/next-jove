@@ -1,20 +1,15 @@
-import styles from "../styles/styles";
 
 const Testimonials = () => {
   return (
-    <div name='testimonials' className='w-full mt-24'>
-      <div className='max-w-[1240px] mx-auto px-12'>  
+    <div name='testimonials' className="w-full mt-24">
+      <div className='max-w-[1240px] mx-auto px-6'>  
         <div className='px-4 py-12'>
           <h2>
           ZKUŠENOSTI ZÁKAZNÍKŮ S LYŽEMI <span className="text-main-blue">JOVE</span>
           </h2>
         </div>
-        <div
-          className=" mt-12 grid grid-cols-1 gap-8 sm:gap-16 lg:grid-cols-3"
-        >
-          
-
-          <div>
+        <div className="mt-12 grid grid-cols-1 gap-8 sm:gap-16 lg:grid-cols-3">
+          <div className="bg-white">
             <img
               alt="Woman"
               src="https://images.unsplash.com/photo-1599566219227-2efe0c9b7f5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
@@ -88,7 +83,7 @@ const Testimonials = () => {
             </blockquote>
           </div>
 
-          <div>
+          <div className="bg-white">
             <img
               alt="Woman"
               src="https://images.unsplash.com/photo-1599566219227-2efe0c9b7f5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
@@ -162,7 +157,7 @@ const Testimonials = () => {
             </blockquote>
           </div>
 
-          <div>
+          <div className="bg-white">
             <img
               alt="Woman"
               src="https://images.unsplash.com/photo-1599566219227-2efe0c9b7f5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"

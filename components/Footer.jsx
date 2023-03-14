@@ -3,7 +3,7 @@ import logo from "../assets/jove-logo.png"
 import { SocialIcon } from 'react-social-icons';
 
 const Footer = () => (
-  <footer className="py-8 bg-main-blue/30"
+  <footer className="py-8 bg-main-blue/20 mt-12"
   >
     <div className="max-w-[1240px] mx-auto px-6">
         <div className="flex items-center justify-between flex-wrap gap-4">

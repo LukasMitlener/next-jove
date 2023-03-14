@@ -5,7 +5,7 @@ import bp2 from '../assets/2.webp'
 
 const Blog = () => {
   return (
-    <div name="blog" className="w-full mt-24">
+    <div name="blog" className="w-full mt-36">
         <div class="max-w-[1240px] mx-auto px-6">
             <div className='py-12 text-black'>
                 <h2>

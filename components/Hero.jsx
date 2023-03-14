@@ -3,13 +3,13 @@ import heroImg from '../assets/JOVE-PNG-Blue-transparent.png'
 
 const Hero = () => {
   return (
-    <div name='home' className='w-full h-screen flex flex-col justify-between'>
+    <div name='home' className='w-full h-[54rem] flex flex-col justify-between'>
         <div className='grid md:grid-cols-2 max-w-[1240px] m-auto px-6'>
-          <div className='flex flex-col justify-center md:items-start w-full py-8'>
-            <h1 className='py-3 text-5xl md:text-6xl font-bold'>Unikátní<br />
-            <span className='text-main-blue p-0'>kolečkové lyže</span><br />
+          <div className='text-center flex flex-col justify-center md:items-start w-full py-8'>
+            <h1 className='text-center py-3 text-5xl md:text-left md:text-7xl font-bold'>Unikátní<br />
+            <span className='text-center text-main-blue p-0'>kolečkové lyže</span><br />
             ze ❤️ Krkonoš</h1>
-            <p className='text-3xl'>Vyrobeno a navrženo zkušeným sportovcem.</p>
+            <p className='text-center md:text-left text-3xl'>Vyrobeno a navrženo zkušeným sportovcem.</p>
           </div>
             
           <div className="bg-transparent flex items-center justify-center ">

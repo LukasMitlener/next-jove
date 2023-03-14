@@ -3,18 +3,18 @@ import CtaImg from "../assets/cesta-krkonose3.jpg"
 
 const Cta1 = () => {
   return (
-    <div name="cta" className="w-full mt-24 py-12">
+    <div name="cta" className="w-full mt-36 py-12">
       <div className="max-w-[1240px] mx-auto px-6">
         <div className="grid gap-10 lg:grid-cols-2">
           <div className="lg:pr-10">
 
 
             <div className="flex items-start">
-              <h2 className="text-start uppercase mb-6">
+              <h2 className="text-center md:text-start uppercase mb-6">
                 Jste připraveni zažít unikátní zážitek z <span className="text-main-blue">jízdy?</span>
               </h2>
             </div>
-            <p className="mb-6 text-gray-900">
+            <p className="text-center md:text-start mb-6 text-gray-900">
             Zvažte model lyží dle Vašeho preferovaného stylu jízdy, vysněte si barvu a objednejte na níže uvedeném e-mailu.
             &#128161; PRO TIP: Možnost vylaserovat cokoliv dle Vašeho výběru (věnování, slogan, obrázek,...)
             </p>
@@ -32,7 +32,7 @@ const Cta1 = () => {
                 
               </p>
               <a className="text-lg" href="mailto:vejnar3@seznam.cz">
-                  vejnar3@seznam.cz
+                  jove@volny.cz
               </a>
             </div>
           </div>

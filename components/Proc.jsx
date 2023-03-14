@@ -3,9 +3,9 @@ import { HeartIcon, FingerPrintIcon, CashIcon } from '@heroicons/react/outline';
 
 const Proc = () => {
   return (
-  <div name='proc' className='w-full mt-24'>
+  <div name='proc' className='w-full mt-36'>
       <div className='max-w-[1240px] mx-auto px-6 relative'>
-          <div className='px-4 py-12'>
+          <div className='pt-12'>
             <h2>
             PROČ <span className="text-main-blue">JOVE?</span>
             </h2>
