@@ -16,7 +16,7 @@ const Proc = () => {
                   <div className='p-8'>
                       <HeartIcon className='w-16 p-4 bg-main-blue text-white rounded-lg mt-[-4rem]' />
                       <h3>Český výrobek</h3>
-                      <p>Kvalitní materiál. Poctivě navrženo a vyrobeno velezkušeným sportovcem z Krkonoš. </p>
+                      <p>Poctivě navrženo a vyrobeno z kvalitního materiálu velezkušeným sportovcem z Krkonoš. Podpořte českou výrobu a tradici kvality. </p>
                   </div>
                   <div className='bg-slate-100 rounded-b-lg pl-8 py-4 cursor-pointer'>
                     <Link to="cta" smooth={true}><p className='flex items-center text-main-blue text-xl text-center font-semibold'>Objednat</p></Link>
@@ -25,8 +25,8 @@ const Proc = () => {
               <div className='bg-white rounded-lg shadow-2xl flex flex-col justify-between'>
                   <div className='p-8'>
                       <FingerPrintIcon className='w-16 p-4 bg-main-blue text-white rounded-lg mt-[-4rem]' />
-                      <h3>Unikátní jízdní vlastnosti</h3>
-                      <p>Díky speciálně navrženým velkým kolečkům jsou jízdní vlastnosti zcela unikátní. </p>
+                      <h3>Unikátní vlastnosti</h3>
+                      <p>Díky speciálně navrženým velkým kolečkům jsou jízdní vlastnosti zcela unikátní. Můžete si být jisti, že s našimi lyžemi budete mít tu nejlepší jízdní zkušenost. </p>
                   </div>
                   <div className='bg-slate-100 rounded-b-lg pl-8 py-4 cursor-pointer'>
                     <Link to="cta" smooth={true}><p className='flex items-center text-main-blue text-xl font-semibold'>Objednat</p></Link>
@@ -36,7 +36,7 @@ const Proc = () => {
                   <div className='p-8'>
                       <CashIcon className='w-16 p-4 bg-main-blue text-white rounded-lg mt-[-4rem]' />
                       <h3>Poměr cena výkon</h3>
-                      <p>I přes unikátní vlastnosti lyží je cena v porovnání s konkurencí velice rozumná. </p>
+                      <p>I přes svou výjimečnost jsou tyto lyže k dostání za velice rozumnou cenu. Výrobce dbá nejen na kvalitu, ale také na přístupnost a spokojenost zákazníků. </p>
                   </div>
                   <div className='bg-slate-100 rounded-b-lg pl-8 py-4 cursor-pointer'>
                     <Link to="cta" smooth={true}><p className='flex items-center text-main-blue text-xl font-semibold'>Objednat</p></Link>
