@@ -7,7 +7,7 @@ import Video from "../components/Video"
 import Blog from "../components/Blog"
 import Pricing from "../components/Pricing"
 import Testimonial from "../components/Testimonial"
-import Cta1 from "../components/Cta1"
+import Cta from "../components/Cta"
 import Footer from "../components/Footer"
 
 export default function Home() {
@@ -15,15 +15,18 @@ export default function Home() {
     <div className="bg-main-light w-full overflow-hidden font-poppins">
       <Head>
         <title>Kolečkové lyže Jove</title>
-        <meta name="description" content="Kolečkové lyže s unikátními jízdními vlastnostmi. Množství barevných provedení."></meta>
-        <meta name="keywords" content="originální, unikátní, kolečkové lyže, jak vybrat, letní trénink, letní běžky, bežky na kolečkách, běžky v létě na suchu, klasika, skate, na soupaž, barevné provedení"></meta>
-        <meta
-          property="og:image"
-          content="https://example.com/images/cool-page.jpg"
-        />
+        <meta name="description" content="Unikátní kolečkové lyže Jove nabízejí skvělé jízdní vlastnosti pro letní trénink. Mnoho barevných možností. Navrženo a vyrobeno zkušeným sportovcem." />
+
+        <meta name="keywords" content="kolečkové lyže, Jove, letní trénink, letní běžky, běžky na kolečkách, běžky v létě, na suchu, klasika, skate, na soupaž, barevné provedení, unikátní, originální, jak vybrat" />
+
+        <meta property="og:title" content="Kolečkové lyže Jove - Unikátní lyže pro letní trénink" />
+        <meta property="og:description" content="Unikátní kolečkové lyže Jove nabízejí skvělé jízdní vlastnosti pro letní trénink. Mnoho barevných možností. Navrženo a vyrobeno zkušeným sportovcem." />
+        <meta property="og:image" content="https://example.com/images/cool-page.jpg" />
+        <meta property="og:url" content="https://example.com" />
+        <meta property="og:type" content="website" />
         <link rel="icon" href="../assets/favicon.ico"></link>
       </Head>
-      <Navbar/ >
+      <Navbar />
       <Hero />
       <About />
       <Video />
@@ -31,7 +34,7 @@ export default function Home() {
       <Blog />
       <Testimonial />
       <Pricing />
-      <Cta1 />
+      <Cta />
       <Footer />
     </div>
   )
