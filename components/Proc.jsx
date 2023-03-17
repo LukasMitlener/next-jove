@@ -16,7 +16,7 @@ const Proc = () => {
                   <div className='p-8'>
                       <HeartIcon className='w-16 p-4 bg-main-blue text-white rounded-lg mt-[-4rem]' />
                       <h3>Český výrobek</h3>
-                      <p>Poctivě navrženo a vyrobeno z kvalitního materiálu velezkušeným sportovcem z Krkonoš. Podpořte českou výrobu a tradici kvality. </p>
+                      <p>Kolečkové lyže JOVE jsou ztělesněním české řemeslné kvality a vášní pro sportovní výkon. Podpořte českou výrobu! </p>
                   </div>
                   <div className='bg-slate-100 rounded-b-lg pl-8 py-4 cursor-pointer'>
                     <Link to="cta" smooth={true}><p className='flex items-center text-main-blue text-xl text-center font-semibold'>Objednat</p></Link>
