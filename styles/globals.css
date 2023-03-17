@@ -31,21 +31,3 @@
     hover:bg-transparent hover:text-main-blue rounded-md
   }
 }
-
-
-.container {
-  max-width: 60rem;
-}
-
-
-
-.padding_video {
-  padding-top: 56.25%
-}
-
-@media (max-width: 991px) {
-  iframe {
-    max-width: 90%;
-  }
-}
-
