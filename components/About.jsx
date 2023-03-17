@@ -13,11 +13,24 @@ const About = () => {
 
         <div className='grid md:grid-cols-2 space-y-12 md:space-y-0'>
           <div className='flex flex-col justify-center md:items-start w-full'>
-            <Image className='w-full object-cover rounded-lg' src={Balt} alt="na lyžích Jove u Baltu" />
+            <Image className='w-full object-cover rounded-lg shadow-xl' src={Balt} alt="na lyžích Jove u Baltu" />
           </div>
 
           <div className='px-0 md:px-10'>
-            <p>Mým cílem bylo vyrobit kolečkové lyže pro skate, 
+            <p>Představujeme Vám český výrobek, který je srdcovou záležitostí jednoho 
+              vášnivého sportovce z Krkonoš. Kolečkové lyže JOVE jsou poctivě navrženy 
+              a vyrobeny z kvalitního materiálu, aby vám poskytly nejlepší zážitek 
+              z jízdy. Každý detail byl pečlivě promyšlen a vylepšen
+              na základě dlouhodobé zkušenosti a poznání toho, co sportovci při ježdění potřebují.
+            </p>  
+            <br />
+            <p>
+              Svou kvalitou se kolečkové lyže JOVE vyrovnají i těm nejlepším zahraničním 
+              značkám. Navíc, když si pořídíte kolečkové lyže JOVE, podpoříte tuzemskou 
+              výrobu a pomůžete udržet tradici kvalitního českého zpracování.
+            </p>
+
+            <p>Cílem výrobce pana Josefa Vejnara bylo vyrobit kolečkové lyže pro skate, 
               které odpovídají pocitově lyžování na sněhu a dá se na nich 
               jezdit kdekoliv při bezúdržbovém provozu.  
               Zákazníci velice oceňují možnost jízdy na špatných cestách s využitím brzd. 
