@@ -30,37 +30,28 @@ const clanek1 = () => {
           </div>
           <div className="dark:text-gray-100">
             <p className='pb-12'>
-              Jak se jezdí na kolečkových lyžích a jaké vybrat?
-              Jízda na kolečkových lyžích JOVE se přibližuje jízdě na běžkách . Rozdíl je
-              pochopitelně v oblečení . Podle venkovní teploty volíte v létě trenky a tričko . Zde
-              doporučuji reflexní barvy nebo navlékat reflexní vestu. Používáme rukavice , kvůli
-              tvorbě puchýřů – mohou být i cyklistické . Na hlavu doporučuji přilbu a brýle.
-              Tak jako v zimě na běžkách rozlišujeme dvě základní běžecké techniky skate a
-              klasika , když nepočítáme stále populárnější soupaž. JOVE se zaměřily hlavně na
-              výrobu kolečkových lyží na bruslení – skatových. Rozdíl oproti in –line bruslím je
-              v tom , že při jízdě na kolečkových lyžích máte volnou patu a tím máte i delšískluz
-              a šetříte energii. K jejich výrobě jsem se v roce 2008 rozhodl poté, co jsem si
-              pořídil brusle POWERSSLIDY . Vadilo mi na nich pevné uchycení boty na šasí a
-              proto jsem metodou pokus –omyl vylepšoval první k.l. až do současné podoby.
-              Pro ty z vás, kteří se chystají na laufařské závody je ideální používat lyže na skate i
-              na soupažnou techniku běhu . Rychlost k. lyží odpovídá zimním podmínkám jízdě
-              na středně zmrzlém firnu.
-              Na zakázku vyrábíme i k.l. na klasiku , které jsou delší a mají reversní ložiska
-              v předních kolečkách , ze kterých se také odrážíte. Bruslení na nich je obtížnější a
-              museli byste příliš zvedat nohu, z důvodu posunutého těžiště na lyži dopředu .
-              Boty na kolečkové lyže – používat můžete boty na zimní lyžování . Na skate
-              rozhodně vysoké s adaptérem , tak , aby noha byla dostatečně zpevněná . Na
-              klasiku doporučuji tzv. combi boty , které jsou vyšší a mají ohebnější podrážku .
-              Některé firmy vyrábějí i speciální boty na kolečkové lyže , které jsou vzdušnější a
-              lehčí/Botana , Alpina / . Z vlastní zkušenosti mohu ujistit , že většině postačí boty
-              používané na běžky.
-              Hole na kolečkové lyže používáme o něco delší /cca 3 cm / než na běžky . Tzn. na
-              klasiku by měly dosahovat do výše ramen a na skate ke kořenu nosu . Je to však
-              individuální a když budete mít hole, které používáte na běžky , nic se nestane .
-              Takže hlavní změna je u kroužků , když používáme hrotové nástavce na asfalt .
-              Jejich výměna na stávajících holích je jednoduchá a zvládne ji každý . Kroužky
-              nahřejeme horkovzdušnou pistolí a hroty po nasunutí s pomocí tavné svíčky
-              zafixujeme.
+            Kolečkové lyže jsou ideální pro každého, kdo miluje běžecké sporty a chce se pohybovat venku i v letních měsících. Tento sport je velmi podobný běhu na lyžích v zimě, ale s výhodou, že můžete jezdit po asfaltu a nezávisíte na sněhu. Pokud uvažujete o koupi kolečkových lyží, může být obtížné vědět, na co se zaměřit. Zde jsou některé tipy, které vám pomohou při výběru správných kolečkových lyží.
+            <br />
+            <br />
+            Při výběru kolečkových lyží musíte brát v úvahu své zkušenosti s běžkováním a vaše očekávání od sportu. Pokud jste začátečník, určitě byste měli zvážit nákup lyží, které jsou stabilní a snadno ovladatelné. Na druhé straně, pokud jste zkušený lyžař, můžete si vybrat něco s více technickými vlastnostmi, které vám umožní dosáhnout větší rychlosti a výkonu.
+            <br />
+            <br />
+            Většina kolečkových lyží je k dispozici ve dvou základních typech: pro skating a pro klasiku. Pro skating jsou lyže kratší a širší než pro klasiku a mají volnou patu. To vám umožňuje dosáhnout větší rychlosti a lepšího skluzu. Pro klasiku jsou lyže delší a uchycení boty na lyži je pevnější. Tento typ lyží je ideální pro běžné lyžaře, kteří si chtějí užít sport a zlepšit své techniky.
+            <br />
+            <br />
+            Pro výběr kolečkových lyží je důležité rozhodnout se mezi stylem klasického lyžování a bruslením, neboť každý styl má své specifické požadavky na konstrukci lyží. Pro klasický styl jsou vhodné lyže s jednosměrnými ložisky a delším nosníkem, zatímco pro bruslení jsou vhodné lyže s obousměrnými ložisky a kratším nosníkem. Materiál koleček je nejčastěji pryž a existují různé tvrdosti, které ovlivňují rychlost a trvanlivost koleček. Pro trénink na rovinatém terénu se doporučuje kolečka s menším průměrem a pro trénink soupaží jsou vhodné lyže se širokými a nízkými kolečky. Nosníky mohou být vyrobeny z hliníku, dřevěných laminátů, karbonu nebo plastu. Začátečníkům se doporučuje pořídit si levnější variantu s hliníkovým nosníkem a pryžovými kolečky.
+            <br />
+            <br />
+            Při výběru kolečkových lyží musíte také brát v úvahu typ terénu, na kterém budete jezdit. Pokud budete jezdit na hladkém asfaltu, můžete si vybrat menší kolečka, která vám poskytnou rychlost a skluz. Pokud plánujete jezdit v terénu s nerovnostmi, vybírejte lyže s většími kolečky, které vám poskytnou lepší stabilitu a snadnější řízení.
+            <br />
+            <br />
+            Při začátcích s kolečkovými lyžemi je důležité být otevřený a sdělit své očekávání prodejci. Zvažte, zda chcete jezdit klasicky nebo bruslit, jestli plánujete projížďky, tréninky nebo závody a jaký typ vázání bot máte k dispozici nebo si plánujete pořídit. 
+            <br />
+            <br />
+            Pro jízdu na kolečkových lyžích budete také potřebovat hole se speciálními hroty na asfalt, stejně dlouhé jako vaše zimní hole a nezapomeňte na cyklistickou přilbu a rukavice.
+            <br />
+            <br />
+            Poslední věc, kterou byste měli brát v úvahu, je výběr bot. Boty by měly být pohodlné a pevné, aby vám poskytly správnou oporu a kontrolu nad lyžemi.
             </p>
           </div>
         </article>
