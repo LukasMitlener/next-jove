@@ -19,13 +19,13 @@ const Testimonials = () => {
             <blockquote
               className="-mt-6 flex flex-col justify-between rounded-lg p-12 text-center shadow-xl"
             >
-              <p className="text-lg font-bold">Pája Vejnarová</p>
+              <p className="text-lg font-bold">Standa Řezáč</p>
               <p className="mt-1 text-xs font-medium text-gray-500">
-                Tanečnice / choreografka
+              dlouholetý  reprezentant v dálkových bězích a trojnásobný vítěz Jizerské 50 a naposledy  3.  na MČR 2023 v běhu na  lyžích na 50 km
               </p>
               <p className="mt-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
-                voluptatem alias ut provident sapiente repellendus.
+              " Kolečkové lyže  JOVE jsem  vyhrál  před několika lety na závodech  na  kol. lyžích , který  firma JOVE pořádala   ze  Špindlu na Špindlerovku .
+Jsou výborné na  vyjížďky  po všech cestách a díky brzdám  po Jizerkách  se na nich  dá sjet  téměř  vše.  Oblíbil si je můj mladej . který mi je zabavil a trénuje na nich . Doporučuji . "
               </p>
 
               <div className="mt-8 flex justify-center gap-0.5 text-main-blue">
@@ -93,13 +93,12 @@ const Testimonials = () => {
             <blockquote
               className="-mt-6 flex flex-col justify-between rounded-lg p-12 text-center shadow-xl"
             >
-              <p className="text-lg font-bold text-gray-700">Jan Honzík</p>
+              <p className="text-lg font-bold text-gray-700">Blanka Paulů</p>
               <p className="mt-1 text-xs font-medium text-gray-500">
-                Biatlonista
+              bývalá reprezentantka  a nositelka  stříbrné medaile  z MS  v běhu na 10 km a olympijská medailistka ze štafety z ZOH v Sarajevu
               </p>
               <p className="mt-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
-                voluptatem alias ut provident sapiente repellendus.
+              "  Lyže JOVE jsou  super díky nafukovacím kolečkům  pro jízdu zejména  na našich rozbitých cestách. Vyhovovalo mně ,že jsem  si mohla   z kopce přibrzďovat  a sjet tak i  úseky  na které bych si na jiných kolečkových lyžích jinak netroufla."
               </p>
 
               <div className="mt-8 flex justify-center gap-0.5 text-main-blue">
@@ -167,13 +166,12 @@ const Testimonials = () => {
             <blockquote
               className="-mt-6 flex flex-col justify-between rounded-lg p-12 text-center shadow-xl"
             >
-              <p className="text-lg font-bold text-gray-700">Hana Nováková</p>
+              <p className="text-lg font-bold text-gray-700">Zděnek Vejnar</p>
               <p className="mt-1 text-xs font-medium text-gray-500">
-                Běžkařka
+              Bývalý trenér  rakouské reprezentace v biatlonu
               </p>
               <p className="mt-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
-                voluptatem alias ut provident sapiente repellendus.
+              " Na JOVE lyžích jsem měl možnost jezdit a doporučuji  je mladým závodníkům , kteří potřebují  dostat správnou techniku bruslení do krve,  protože  jim neodpustí  žádnou  chybu při  přenášení váhy  a tím  mohou upevňovat správné  technické návyky. ..." 
               </p>
 
               <div className="mt-8 flex justify-center gap-0.5 text-main-blue">
