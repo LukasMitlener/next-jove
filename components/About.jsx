@@ -30,26 +30,16 @@ const About = () => {
               výrobu a pomůžete udržet tradici kvalitního českého zpracování.
             </p>
 
-            <p>Cílem výrobce pana Josefa Vejnara bylo vyrobit kolečkové lyže pro skate, 
-              které odpovídají pocitově lyžování na sněhu a dá se na nich 
-              jezdit kdekoliv při bezúdržbovém provozu.  
-              Zákazníci velice oceňují možnost jízdy na špatných cestách s využitím brzd. 
-            </p>
-            <br />
-            <p>Kolečkové lyže s volnoběžkovými ložisky umožňující odraz. 
-              Přední kolečka se točí pouze dopředu, jsou to vlastně 
-              kolečkové lyže kombi. Simulace bruslařské techniky na klasických
-              kolečkových lyžích je možná a vzhledem k případné montáži brzd 
-              prakticky umožňují přejezdy všech profilů a kvality cest bez 
-              nutného svážení lyžaře z kopce dolů autem atd. Na těchto lyžích, 
-              i když jsou delší je možné i bruslit. Vzhledem k 100% odrazu 
-              z předního kolečka, se může vytvářet u lyžařů syndrom pozdního 
-              odrazu a kazit se technika na klasiku na sněhu. Proto raději 
-              doporučuji kolečkové lyže na skate, kde je technika běhu téměř 
-              totožná s jízdou na lyžích v zimě
+            <p>Výrobce Josef Vejnar chtěl vytvořit kolečkové lyže pro skate, které se pocitově 
+              blíží lyžování na sněhu a umožňují bezúdržbový provoz. K dispozici jsou kolečkové
+              lyže kombi s volnoběžkovými ložisky pro odraz a možností brzdy pro jízdu na špatných
+              cestách. Tyto lyže nabízejí simulaci bruslařské techniky a umožňují přejezd různých
+              profilů a kvality cest. Lyže Jove jsou vhodné pro skate, kde je technika běhu téměř
+              totožná s jízdou na sněhu.
             </p>
             <br />
             <p>
+              Další informace o lyžích Jove naleznete v <a href>našem článku</a>
               Lyže prošli zátěžovou zkoužkou, když se mnou ujeli 500Km k Baltu a zpět. <br /> <br />
               <a href="https://www.youtube.com/watch?v=av3Dsnsy-3s&ab_channel=lyzeJOVE" className="text-main-blue hover:text-blue-400" title='500km k Baltu na kolečkových lyžích JOVE'>
                 Více ve videu
