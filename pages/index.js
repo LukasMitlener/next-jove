@@ -6,7 +6,6 @@ import Proc from "../components/Proc"
 import Video from "../components/Video"
 import Blog from "../components/Blog"
 import Pricing from "../components/Pricing"
-import Testimonial from "../components/Testimonial"
 import Testimonials from "../components/Testimonials"
 import Cta from "../components/Cta"
 import Footer from "../components/Footer"
@@ -33,7 +32,6 @@ export default function Home() {
       <Video />
       <Proc />
       <Blog />
-      <Testimonial />
       <Testimonials />
       <Pricing />
       <Cta />
