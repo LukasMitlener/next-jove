@@ -2,7 +2,7 @@
 const Testimonials = () => {
   return (
     <div name='testimonials' className="w-full mt-24">
-      <div className='max-w-[1240px] mx-auto px-6'>  
+      <div className='max-w-[1740px] mx-auto px-6'>  
 
         <div className="mt-12 grid grid-cols-1 gap-8 sm:gap-16 lg:grid-cols-3">
           <div className="bg-white">
@@ -84,7 +84,7 @@ const Testimonials = () => {
             >
               <p className="text-2xl font-bold text-gray-700">Blanka Paulů</p>
               <p className="mt-1 text-sm font-medium text-gray-500">
-              bývalá reprezentantka a nositelka stříbrné medaile z MS v běhu na 10 km a olympijská medailistka ze štafety z ZOH v Sarajevu
+              nositelka stříbrné medaile z MS v běhu na 10 km a olympijská medailistka ze štafety z ZOH v Sarajevu
               </p>
               <div>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="inline-block w-8 h-8 text-main-blue mt-8" viewBox="0 0 975.036 975.036">
