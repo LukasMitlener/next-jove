@@ -21,7 +21,7 @@ const About = () => {
               vášnivého sportovce z Krkonoš. Kolečkové lyže JOVE jsou poctivě navrženy 
               a vyrobeny z kvalitního materiálu, aby vám poskytly nejlepší zážitek 
               z jízdy. Každý detail byl pečlivě promyšlen a vylepšen
-              na základě dlouhodobé zkušenosti a poznání toho, co sportovci při ježdění potřebují.
+              na základě dlouhodobé zkušenosti a poznání toho, co sportovci při jízdě potřebují.
             </p>  
             <br />
             <p>
@@ -29,7 +29,7 @@ const About = () => {
               značkám. Navíc, když si pořídíte kolečkové lyže JOVE, podpoříte tuzemskou 
               výrobu a pomůžete udržet tradici kvalitního českého zpracování.
             </p>
-
+            <br />
             <p>Výrobce Josef Vejnar chtěl vytvořit kolečkové lyže pro skate, které se pocitově 
               blíží lyžování na sněhu a umožňují bezúdržbový provoz. K dispozici jsou kolečkové
               lyže kombi s volnoběžkovými ložisky pro odraz a možností brzdy pro jízdu na špatných
@@ -39,8 +39,8 @@ const About = () => {
             </p>
             <br />
             <p>
-              Další informace o lyžích Jove naleznete v <a href>našem článku</a>
-              Lyže prošli zátěžovou zkoužkou, když se mnou ujeli 500Km k Baltu a zpět. <br /> <br />
+              Další informace o lyžích Jove naleznete <a href>zde</a><br /><br />
+              Lyže prošli zátěžovou zkoužkou, když se mnou ujeli 500Km k Baltu a zpět. 
               <a href="https://www.youtube.com/watch?v=av3Dsnsy-3s&ab_channel=lyzeJOVE" className="text-main-blue hover:text-blue-400" title='500km k Baltu na kolečkových lyžích JOVE'>
                 Více ve videu
               </a>
