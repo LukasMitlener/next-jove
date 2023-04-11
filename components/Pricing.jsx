@@ -3,7 +3,7 @@ import { CheckIcon, XIcon } from '@heroicons/react/solid';
 
 const Pricing = () => {
   return (
-    <div name='cena' className='w-full mt-24'>
+    <div name='cena' className='w-full mt-36'>
       <div className='max-w-[1240px] mx-auto px-6'>
 
         <div className='px-4 py-12'>
