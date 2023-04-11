@@ -34,8 +34,7 @@ const About = () => {
               blíží lyžování na sněhu a umožňují bezúdržbový provoz. K dispozici jsou kolečkové
               lyže kombi s volnoběžkovými ložisky pro odraz a možností brzdy pro jízdu na špatných
               cestách. Tyto lyže nabízejí simulaci bruslařské techniky a umožňují přejezd různých
-              profilů a kvality cest. Lyže Jove jsou vhodné pro skate, kde je technika běhu téměř
-              totožná s jízdou na sněhu.
+              profilů a kvalit cest. 
             </p>
             <br />
             <p>
