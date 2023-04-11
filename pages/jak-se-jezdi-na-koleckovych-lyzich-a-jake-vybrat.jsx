@@ -30,28 +30,28 @@ const clanek1 = () => {
           </div>
           <div className="dark:text-gray-100">
             <p className='pb-12'>
-            Kolečkové lyže jsou ideální pro každého, kdo miluje běžecké sporty a chce se pohybovat venku i v letních měsících. Tento sport je velmi podobný běhu na lyžích v zimě, ale s výhodou, že můžete jezdit po asfaltu a nezávisíte na sněhu. Pokud uvažujete o koupi kolečkových lyží, může být obtížné vědět, na co se zaměřit. Zde jsou některé tipy, které vám pomohou při výběru správných kolečkových lyží.
+            Kolečkové lyže jsou ideální pro každého, kdo miluje běžecké sporty a chce se pohybovat venku i v letních měsících. Tento sport je velmi podobný běhu na lyžích v zimě, ale s výhodou, že můžete jezdit po asfaltu a nejste závislí na sněhových podmínkách. Pokud uvažujete o koupi kolečkových lyží, může být obtížné vědět, na co se zaměřit. Zde jsou některé tipy, které vám pomohou při výběru správných kolečkových lyží.
             <br />
             <br />
-            Při výběru kolečkových lyží musíte brát v úvahu své zkušenosti s běžkováním a vaše očekávání od sportu. Pokud jste začátečník, určitě byste měli zvážit nákup lyží, které jsou stabilní a snadno ovladatelné. Na druhé straně, pokud jste zkušený lyžař, můžete si vybrat něco s více technickými vlastnostmi, které vám umožní dosáhnout větší rychlosti a výkonu.
+            Při výběru kolečkových lyží musíte brát v úvahu své zkušenosti s jízdou na běžkách. Pokud jste začátečník, určitě byste měli zvážit nákup lyží, které jsou stabilní a snadno ovladatelné. Na druhé straně, pokud jste zkušený lyžař, můžete si vybrat něco s více technickými vlastnostmi, které vám umožní dosáhnout větší rychlosti a výkonu.
             <br />
             <br />
-            Většina kolečkových lyží je k dispozici ve dvou základních typech: pro skating a pro klasiku. Pro skating jsou lyže kratší a širší než pro klasiku a mají volnou patu. To vám umožňuje dosáhnout větší rychlosti a lepšího skluzu. Pro klasiku jsou lyže delší a uchycení boty na lyži je pevnější. Tento typ lyží je ideální pro běžné lyžaře, kteří si chtějí užít sport a zlepšit své techniky.
+            Většina kolečkových lyží je k dispozici ve dvou základních typech: pro skating (bruslení) a pro klasiku. Pro skating jsou lyže kratší a širší než pro klasiku a mají volnou patu. To vám umožňuje dosáhnout větší rychlosti a lepšího skluzu. Pro tento styl jsou vhodné lyže s obousměrnými ložisky a kratším nosníkem. Zatímco pro klasiku jsou lyže delší, uchycení boty na lyži je pevnější a jsou vhodné lyže s jednosměrnými ložisky a delším nosníkem. 
             <br />
             <br />
-            Pro výběr kolečkových lyží je důležité rozhodnout se mezi stylem klasického lyžování a bruslením, neboť každý styl má své specifické požadavky na konstrukci lyží. Pro klasický styl jsou vhodné lyže s jednosměrnými ložisky a delším nosníkem, zatímco pro bruslení jsou vhodné lyže s obousměrnými ložisky a kratším nosníkem. Materiál koleček je nejčastěji pryž a existují různé tvrdosti, které ovlivňují rychlost a trvanlivost koleček. Pro trénink na rovinatém terénu se doporučuje kolečka s menším průměrem a pro trénink soupaží jsou vhodné lyže se širokými a nízkými kolečky. Nosníky mohou být vyrobeny z hliníku, dřevěných laminátů, karbonu nebo plastu. Začátečníkům se doporučuje pořídit si levnější variantu s hliníkovým nosníkem a pryžovými kolečky.
+            Materiál koleček je nejčastěji pryž a existují různé tvrdosti, které ovlivňují rychlost a trvanlivost koleček. Pro trénink na rovinatém terénu se doporučují kolečka s menším průměrem a pro trénink soupaží jsou vhodné lyže se širokými a nízkými kolečky. Nosníky mohou být vyrobeny z hliníku, dřevěných laminátů, karbonu nebo plastu. Začátečníkům se doporučuje pořídit si levnější variantu s hliníkovým nosníkem a pryžovými kolečky.
             <br />
             <br />
-            Při výběru kolečkových lyží musíte také brát v úvahu typ terénu, na kterém budete jezdit. Pokud budete jezdit na hladkém asfaltu, můžete si vybrat menší kolečka, která vám poskytnou rychlost a skluz. Pokud plánujete jezdit v terénu s nerovnostmi, vybírejte lyže s většími kolečky, které vám poskytnou lepší stabilitu a snadnější řízení.
+            Při výběru kolečkových lyží musíte také brát v úvahu typ terénu, na kterém budete jezdit. Pokud budete jezdit na hladkém asfaltu, můžete si vybrat menší kolečka. Pokud plánujete jezdit v terénu s nerovnostmi, vybírejte lyže s většími kolečky, které vám poskytnou lepší stabilitu.
             <br />
             <br />
-            Při začátcích s kolečkovými lyžemi je důležité být otevřený a sdělit své očekávání prodejci. Zvažte, zda chcete jezdit klasicky nebo bruslit, jestli plánujete projížďky, tréninky nebo závody a jaký typ vázání bot máte k dispozici nebo si plánujete pořídit. 
+            Při začátcích s kolečkovými lyžemi zvažte, zda chcete jezdit klasicky nebo bruslit, jestli plánujete projížďky, tréninky nebo závody a jaký typ vázání bot máte k dispozici nebo si plánujete pořídit. 
+            <br />
+            <br />
+            Měli byste brát v úvahu i výběr bot. Boty by měly být pohodlné a pevné, aby vám poskytly správnou oporu a kontrolu nad lyžemi.
             <br />
             <br />
             Pro jízdu na kolečkových lyžích budete také potřebovat hole se speciálními hroty na asfalt, stejně dlouhé jako vaše zimní hole a nezapomeňte na cyklistickou přilbu a rukavice.
-            <br />
-            <br />
-            Poslední věc, kterou byste měli brát v úvahu, je výběr bot. Boty by měly být pohodlné a pevné, aby vám poskytly správnou oporu a kontrolu nad lyžemi.
             </p>
           </div>
         </article>
@@ -61,7 +61,7 @@ const clanek1 = () => {
             <h4 className="text-lg font-semibold">Další články</h4>
             <ul className="ml-4 space-y-1 list-disc">
               <li>
-                <Link href="/clanek2" className="hover:underline">Proč začít jezdit na kolečkových lyžích JOVE?</Link>
+                <Link href="/proc-zacit-jezdit-na-koleckovych-lyzich-jove" className="hover:underline">Proč začít jezdit na kolečkových lyžích JOVE?</Link>
               </li>
             </ul>
           </div>
