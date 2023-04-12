@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 import Balt from '../assets/pepa.webp'
 
 const About = () => {
@@ -38,11 +39,13 @@ const About = () => {
             </p>
             <br />
             <p>
-              Další informace o lyžích Jove naleznete <a href>zde</a><br /><br />
-              Lyže prošli zátěžovou zkoužkou, když se mnou ujeli 500Km k Baltu a zpět. 
-              <a href="https://www.youtube.com/watch?v=av3Dsnsy-3s&ab_channel=lyzeJOVE" className="text-main-blue hover:text-blue-400" title='500km k Baltu na kolečkových lyžích JOVE'>
-                Více ve videu
+              
+              Lyže prošli zátěžovou zkoužkou, když se mnou ujeli {" "}
+              <a className="pl-20" href="https://www.youtube.com/watch?v=av3Dsnsy-3s&ab_channel=lyzeJOVE" className="text-main-blue hover:text-blue-400" title='500km k Baltu na kolečkových lyžích JOVE'>
+               500Km k Baltu a zpět. 
               </a>
+              <br />
+              Další informace o kolečkových lyžích JOVE v <Link href="/proc-zacit-jezdit-na-koleckovych-lyzich-jove" className="text-xl text-main-blue hover:text-blue-400">našem článku</Link>
             </p>
           </div>
         </div>
