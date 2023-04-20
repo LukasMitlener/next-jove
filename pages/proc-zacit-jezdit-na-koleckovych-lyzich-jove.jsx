@@ -19,7 +19,7 @@ const clanek2 = () => {
         <article className="space-y-8">
           <div className="space-y-6">
             <Image className="object-cover object-center w-full h-96 rounded-lg lg:h-500" src={bp2} alt="lyzari u jezera" />
-            <h1 className="text-4xl font-bold md:tracking-tight md:text-5xl">Proč začít jezdit na kolečkových lyžích JOVE?</h1>
+            <h1 className="text-4xl font-bold md:tracking-tight md:text-5xl">10 důvodů proč začít jezdit na kolečkových lyžích JOVE?</h1>
             <div className="flex flex-col items-start justify-between w-full md:flex-row md:items-center dark:text-gray-400">
               <div className="flex items-center md:space-x-2">
                 <img src="https://source.unsplash.com/75x75/?portrait" alt="" className="w-4 h-4 border rounded-full dark:bg-gray-500 dark:border-gray-700" />
@@ -29,81 +29,45 @@ const clanek2 = () => {
             </div>
           </div>
           <div className="dark:text-gray-100">
-            <p className='pb-12'>
-              Na tuto otázku se musíme podívat z několika stránek .
-              Ta první je zdravotní , druhá je sportovní a třetí je zážitková.
-              Po zdravotní stránce se jedná o sport na čerstvém vzduchu a o pohyb, který je
-              šetrný na klouby , tak jako na většině kolečkových lyžích či bruslích . Na k.l.
-              JOVE je vzhledem k používaným nafukovacím kolečkům toto ještě umocněno,
-              neboť pružnost koleček tlumí otřesy nejen na běžné silnici , ale i na rozbitých a
-              děravých cestách . Navíc se jedná o vytrvalostní sport , který rozvíjí celé tělo a
-              všechny svalové partie rovnoměrně s neopominutelným vlivem na podporu
-              činnosti a rozvoje kardiovaskulární soustavy . Při delších a častějších jízdách
-              nehrozí přetížení z otřesů v oblasti holenních partií , blížící se k příznakům
-              únavové zlomeniny .
-              Po sportovní a tréninkové stránce je zde hned několik plusových argumentů .
-              Asi nejpodstatnější je ten , že na k.l. JOVE nemusíte řešit , zda je vybraná trasa
-              s kvalitním asfaltovým povrchem a se sjezdem , protože snadno překonáte hrbolaté
-              úseky , včetně dláždění a díky originálnímu a jednoduchému brzdění sjedete
-
-              většinu vámi vybraných tras. Z vlastní zkušenosti mohu doložit sjíždění od
-              Vrbatovy boudy přes Mísečky až do Jilemnice. Na to si pravděpodobně troufne jen
-              málokdo , ale pro představu jsem tento příklad uvedl .
-              K.l. JOVE s nafukovacími kolečky umožňují jízdu i na mokrém povrchu , protože
-              kolečka nesmekají, takže i v zimním období výborně poslouží pro přípravu na
-              závody , např. Jizerskou 50. Toto využívám v případě špatných sněhových
-              podmínek i v prosinci či lednu. Technika jízdy na skatových lyžích JOVE neodpustí
-              lyžaři žádnou chybu , takže je výbornou kontrolou o správném provedení. Plně
-              nahradí lyžování a každý se tak může připravovat i na závodní sezonu prakticky
-              celoročně. Těžil jsem z toho i před závody v Austrálii a na Novém Zélandu v r. 2012
-              , které se konají v srpnu a přechod na sníh mi nedělal žádný problém o čemž svědčí
-              výsledky na Kangaroos loppetu i Meryno race ,kde jsem dlouho držel krok s elitními
-              závodníky - Černousov , Legkov , Polka Kovalčuk a další , kteří se tam
-              dlouhodobě připravovali na sezonu. ...
-              Zážitková stránka spočívá v možnosti oprostit se od nutnosti používat na kratší
-              vzdálenosti dopravní prostředky a jednoduše se na kolečkových lyžích přesunout ,
-              kam si naplánujete . Při vhodné volbě trasy se dostanete na zapomenutá zákoutí,
-              dnes již na mnoha horských vyasfaltovaných cest a můžete tak vychutnávat klid a
-              krásy přírody . A konečně je to pocit , že jste pro své zdraví udělali něco , o čem
-              ostatní ani netuší a tak buďte originální .
-              Rady pro začátečníky – na kolečkových lyžích začít od jízdy vestoje zaměřené
-              pouze na odpich soupaž. Po nabytí jistoty přejít při jízdě do mírného kopečku na
-              chůzi ve stromečku a postupně prodlužovat skluz a odraz. Jakmile i toto zvládnete
-              můžete se pokusit o jízdu 1:1 , to je na každou soupaž probíhá současně jízda po
-              jedné lyži . Tato technika už ale klade vyšší nároky na rovnováhu , která je
-              základem běžeckého lyžování .
-
-              Jízda na kolečkových lyžích JOVE se přibližuje jízdě na běžkách . Rozdíl je
-              pochopitelně v oblečení . Podle venkovní teploty volíte v létě trenky a tričko . Zde
-              doporučuji reflexní barvy nebo navlékat reflexní vestu. Používáme rukavice , kvůli
-              tvorbě puchýřů – mohou být i cyklistické . Na hlavu doporučuji přilbu a brýle.
-              Tak jako v zimě na běžkách rozlišujeme dvě základní běžecké techniky skate a
-              klasika , když nepočítáme stále populárnější soupaž. JOVE se zaměřily hlavně na
-              výrobu kolečkových lyží na bruslení – skatových. Rozdíl oproti in –line bruslím je
-              v tom , že při jízdě na kolečkových lyžích máte volnou patu a tím máte i delšískluz
-              a šetříte energii. K jejich výrobě jsem se v roce 2008 rozhodl poté, co jsem si
-              pořídil brusle POWERSSLIDY . Vadilo mi na nich pevné uchycení boty na šasí a
-              proto jsem metodou pokus –omyl vylepšoval první k.l. až do současné podoby.
-              Pro ty z vás, kteří se chystají na laufařské závody je ideální používat lyže na skate i
-              na soupažnou techniku běhu . Rychlost k. lyží odpovídá zimním podmínkám jízdě
-              na středně zmrzlém firnu.
-              Na zakázku vyrábíme i k.l. na klasiku , které jsou delší a mají reversní ložiska
-              v předních kolečkách , ze kterých se také odrážíte. Bruslení na nich je obtížnější a
-              museli byste příliš zvedat nohu, z důvodu posunutého těžiště na lyži dopředu .
-              Boty na kolečkové lyže – používat můžete boty na zimní lyžování . Na skate
-              rozhodně vysoké s adaptérem , tak , aby noha byla dostatečně zpevněná . Na
-              klasiku doporučuji tzv. combi boty , které jsou vyšší a mají ohebnější podrážku .
-              Některé firmy vyrábějí i speciální boty na kolečkové lyže , které jsou vzdušnější a
-              lehčí/Botana , Alpina / . Z vlastní zkušenosti mohu ujistit , že většině postačí boty
-              používané na běžky.
-              Hole na kolečkové lyže používáme o něco delší /cca 3 cm / než na běžky . Tzn. na
-              klasiku by měly dosahovat do výše ramen a na skate ke kořenu nosu . Je to však
-              individuální a když budete mít hole, které používáte na běžky , nic se nestane .
-              Takže hlavní změna je u kroužků , když používáme hrotové nástavce na asfalt .
-              Jejich výměna na stávajících holích je jednoduchá a zvládne ji každý . Kroužky
-              nahřejeme horkovzdušnou pistolí a hroty po nasunutí s pomocí tavné svíčky
-              zafixujeme.
-            </p>
+            <ol>
+              <li>
+                  <h2>Výborný celotělový trénink</h2>
+                  <p>Jízda na kolečkových lyžích JOVE poskytuje skvělý celotělový trénink, který aktivuje svaly horní i dolní části těla, zlepšuje vytrvalost, posiluje srdce a zvyšuje spalování kalorií.</p>
+              </li>
+              <li>
+                  <h2>Prevence zranění</h2>
+                  <p>Kolečkové lyže JOVE mají nízký dopad na klouby a snižují riziko zranění, což je ideální pro ty, kteří hledají šetrnou formu pohybu.</p>
+              </li>
+              <li>
+                  <h2>Technická dovednost</h2>
+                  <p>Jízda na kolečkových lyžích JOVE vám pomůže zlepšit koordinaci, rovnováhu a technickou dovednost, což vám přinese užitek i v dalších sportovních aktivitách.</p>
+              </li>
+              <li>
+                  <h2>Účinná rehabilitace</h2>
+                  <p>Pokud se zotavujete ze zranění nebo operace, kolečkové lyže JOVE mohou být skvělým nástrojem pro rehabilitaci, který vám pomůže získat zpět sílu, mobilitu a důvěru.</p>
+              </li>
+              <li>
+                  <h2>Stres a relaxace</h2>
+                  <p>Jízda na kolečkových lyžích JOVE vám pomůže zapomenout na každodenní starosti a stres. Ponořte se do harmonie přírody a naplňte svůj duch klidem a pohodou.</p>
+              </li>
+              <li>
+                  <h2>Společenský zážitek</h2>
+                  <p>Jízda na kolečkových lyžích JOVE může být i skvělým společenským zážitkem. Pozvěte své přátele nebo rodinu a užijte si společně zábavu a vzájemnou motivaci.</p>
+              </li>
+              <li>
+                  <h2>Flexibilita tréninku</h2>
+                  <p>S kolečkovými lyžemi JOVE si můžete vybrat různé úrovně intenzity a způsoby tréninku. Přizpůsobte si jízdu podle svých potřeb a cílů – ať už chcete zlepšit kondici, zhubnout nebo se jen uvolnit a užít si jízdu. Možností je nespočet!</p>
+              </li>
+              <li>
+                  <h2>Snadná údržba a skladování</h2>
+                  <p>Kolečkové lyže JOVE jsou velmi snadné na údržbu a nevyžadují žádné složité čištění nebo konzervaci. Navíc, díky kompaktním rozměrům je skladování snadné a praktické. Ušetříte tak čas i místo.</p>
+              </li>
+              <li>
+                  <h2>Investice do zdraví a kvality života</h2>
+                  <p>Kolečkové lyže JOVE nejsou jen další sportovní vybavení. Jsou investicí do vašeho zdraví, fyzické i psychické pohody a kvality života. Užijte si radost z pohybu, učte se nové dovednosti a stávejte se aktivním, zdravým a šťastným člověkem.</p>
+              </li>
+            </ol>
+            <p>Začněte jezdit na kolečkových lyžích JOVE ještě dnes a objevte všechny výhody, které vám tento jedinečný sport nabízí! Staňte se součástí rostoucí komunity nadšenců a získejte nejen zdravější tělo, ale i obohacenou mysl.</p>
           </div>
         </article>
 
