@@ -19,7 +19,7 @@ const clanek2 = () => {
         <article className="space-y-8">
           <div className="space-y-6">
             <Image className="object-cover object-center w-full h-96 rounded-lg lg:h-500" src={bp2} alt="lyzari u jezera" />
-            <h1 className="text-4xl font-bold md:tracking-tight md:text-5xl">10 důvodů proč začít jezdit na kolečkových lyžích JOVE?</h1>
+            <h1 className="text-4xl font-bold md:tracking-tight md:text-5xl">8 důvodů proč začít jezdit na kolečkových lyžích JOVE.</h1>
             <div className="flex flex-col items-start justify-between w-full md:flex-row md:items-center dark:text-gray-400">
               <div className="flex items-center md:space-x-2">
                 <img src="https://source.unsplash.com/75x75/?portrait" alt="" className="w-4 h-4 border rounded-full dark:bg-gray-500 dark:border-gray-700" />
@@ -28,46 +28,34 @@ const clanek2 = () => {
               <p className="flex-shrink-0 mt-3 text-sm md:mt-0">4 min čtení</p>
             </div>
           </div>
-          <div className="dark:text-gray-100">
-            <ol>
-              <li>
-                  <h2>Výborný celotělový trénink</h2>
-                  <p>Jízda na kolečkových lyžích JOVE poskytuje skvělý celotělový trénink, který aktivuje svaly horní i dolní části těla, zlepšuje vytrvalost, posiluje srdce a zvyšuje spalování kalorií.</p>
-              </li>
-              <li>
-                  <h2>Prevence zranění</h2>
-                  <p>Kolečkové lyže JOVE mají nízký dopad na klouby a snižují riziko zranění, což je ideální pro ty, kteří hledají šetrnou formu pohybu.</p>
-              </li>
-              <li>
-                  <h2>Technická dovednost</h2>
-                  <p>Jízda na kolečkových lyžích JOVE vám pomůže zlepšit koordinaci, rovnováhu a technickou dovednost, což vám přinese užitek i v dalších sportovních aktivitách.</p>
-              </li>
-              <li>
-                  <h2>Účinná rehabilitace</h2>
-                  <p>Pokud se zotavujete ze zranění nebo operace, kolečkové lyže JOVE mohou být skvělým nástrojem pro rehabilitaci, který vám pomůže získat zpět sílu, mobilitu a důvěru.</p>
-              </li>
-              <li>
-                  <h2>Stres a relaxace</h2>
-                  <p>Jízda na kolečkových lyžích JOVE vám pomůže zapomenout na každodenní starosti a stres. Ponořte se do harmonie přírody a naplňte svůj duch klidem a pohodou.</p>
-              </li>
-              <li>
-                  <h2>Společenský zážitek</h2>
-                  <p>Jízda na kolečkových lyžích JOVE může být i skvělým společenským zážitkem. Pozvěte své přátele nebo rodinu a užijte si společně zábavu a vzájemnou motivaci.</p>
-              </li>
-              <li>
-                  <h2>Flexibilita tréninku</h2>
-                  <p>S kolečkovými lyžemi JOVE si můžete vybrat různé úrovně intenzity a způsoby tréninku. Přizpůsobte si jízdu podle svých potřeb a cílů – ať už chcete zlepšit kondici, zhubnout nebo se jen uvolnit a užít si jízdu. Možností je nespočet!</p>
-              </li>
-              <li>
-                  <h2>Snadná údržba a skladování</h2>
-                  <p>Kolečkové lyže JOVE jsou velmi snadné na údržbu a nevyžadují žádné složité čištění nebo konzervaci. Navíc, díky kompaktním rozměrům je skladování snadné a praktické. Ušetříte tak čas i místo.</p>
-              </li>
-              <li>
-                  <h2>Investice do zdraví a kvality života</h2>
-                  <p>Kolečkové lyže JOVE nejsou jen další sportovní vybavení. Jsou investicí do vašeho zdraví, fyzické i psychické pohody a kvality života. Užijte si radost z pohybu, učte se nové dovednosti a stávejte se aktivním, zdravým a šťastným člověkem.</p>
-              </li>
-            </ol>
-            <p>Začněte jezdit na kolečkových lyžích JOVE ještě dnes a objevte všechny výhody, které vám tento jedinečný sport nabízí! Staňte se součástí rostoucí komunity nadšenců a získejte nejen zdravější tělo, ale i obohacenou mysl.</p>
+          <div className="dark:text-gray-100 text-start">
+
+
+            <h2 className='text-start pb-3'>1. Výrazné zdravotní přínosy</h2>
+            <p>Kolečkové lyže JOVE jsou ideálním sportem pro zlepšení celkové fyzické kondice a posílení srdce. Díky nafukovacím kolečkům budete mít minimální zátěž kloubů, zároveň si procvičíte celé tělo a podpoříte kardiovaskulární zdraví. Navíc, díky vytrvalostnímu charakteru tohoto sportu zlepšíte svou fyzickou i psychickou odolnost.</p>
+            <br></br>
+            <h2 className='text-start'>2. Průzkum nových terénů</h2>
+            <p>S kolečkovými lyžemi JOVE můžete objevovat různé povrchy, včetně rozbitých a děravých cest, aniž byste museli hledat dokonalý asfaltový povrch. S nimi můžete prozkoumávat okolí a objevovat úžasná místa, kam byste se jinak nedostali.</p>
+            <br></br>
+            <h2 className='text-start'>3. Jízda za každého počasí</h2>
+            <p>Díky nesmekajícím nafukovacím kolečkům je jízda na kolečkových lyžích JOVE možná i na mokrém povrchu. To znamená, že nebudete muset přerušovat svůj trénink kvůli nepřízni počasí, a zároveň zlepšíte svou techniku jízdy za různých podmínek.</p>
+            <br></br>
+            <h2 className='text-start'>4. Ideální příprava na závody</h2>
+            <p>Kolečkové lyže JOVE jsou dokonalým tréninkovým nástrojem pro zimní běžecké závody. Rozvíjejí vaši techniku, zlepšují vytrvalost a zvyšují rychlost – všechny klíčové faktory pro úspěch na sněhu.</p>
+            <br></br>
+            <h2 className='text-start'>5. Únik do přírody</h2>
+            <p>S kolečkovými lyžemi JOVE se můžete vydat do přírody a užít si klid a krásu, které nabízí. Je to skvělá příležitost pro meditativní únik od každodenního shonu a stresu. Ponořte se do harmonie přírody a naplňte svůj duch klidem a pohodou.</p>
+            <br></br>
+            <h2 className='text-start'>6. Flexibilita tréninku</h2>
+            <p>S kolečkovými lyžemi JOVE si můžete vybrat různé úrovně intenzity a způsoby tréninku. Přizpůsobte si jízdu podle svých potřeb a cílů – ať už chcete zlepšit kondici, zhubnout nebo se jen uvolnit a užít si jízdu. Možností je nespočet!</p>
+            <br></br>
+            <h2 className='text-start'>7. Snadná údržba a skladování</h2>
+            <p>Kolečkové lyže JOVE jsou velmi snadné na údržbu a nevyžadují žádné složité čištění nebo konzervaci. Navíc, díky kompaktním rozměrům je skladování snadné a praktické. Ušetříte tak čas i místo.</p>
+            <br></br>
+            <h2 className='text-start'>8. Investice do zdraví a kvality života</h2>
+            <p>Kolečkové lyže JOVE nejsou jen další sportovní vybavení. Jsou investicí do vašeho zdraví, fyzické i psychické pohody a kvality života. Užijte si radost z pohybu, učte se nové dovednosti a stávejte se aktivním, zdravým a šťastným člověkem.</p>
+            <br></br>
+            <p className='pb-6'>Začněte jezdit na kolečkových lyžích JOVE ještě dnes a objevte všechny výhody, které vám tento jedinečný sport nabízí! Staňte se součástí rostoucí komunity nadšenců a získejte nejen zdravější tělo, ale i obohacenou mysl.</p>
           </div>
         </article>
 
