@@ -3,7 +3,7 @@ import CtaImg from "../assets/cesta-krkonose3.jpg"
 
 const Cta = () => {
   return (
-    <div name="cta" className="w-full mt-36 py-12">
+    <div name="cta" className="w-full mt-36 py-12 bg-main-blue/20">
       <div className="max-w-[1240px] mx-auto px-6">
         <div className="grid gap-10 lg:grid-cols-2">
           <div className="lg:pr-10">
@@ -11,12 +11,19 @@ const Cta = () => {
 
             <div className="flex items-start">
               <h2 className="text-center md:text-start uppercase mb-6">
-                Jste připraveni zažít unikátní zážitek z <span className="text-main-blue">jízdy?</span>
+                Jste připraveni zažít unikátní zážitek z <span className="text-main-blue">jízdy?</span> 
+                
               </h2>
             </div>
             <p className="text-center md:text-start mb-6 text-gray-900">
-            Zvažte model lyží dle Vašeho preferovaného stylu jízdy, vysněte si barvu a objednejte na níže uvedeném e-mailu.
-            &#128161; PRO TIP: Možnost vylaserovat cokoliv dle Vašeho výběru (věnování, slogan, obrázek,...)
+            Chcete zlepšit svou kondici a užít si adrenalinové jízdy? Pak právě teď je ten pravý čas objednat si 
+            kolečkové lyže JOVE, které přinesou zcela nový rozměr vašemu tréninku!<br></br>
+            🏆 KOMFORT A VÝKON: Naše nafukovací kolečka zaručují maximální pohodlí, minimální zátěž kloubů a skvělou trakci na různých površích - za každého počasí.<br></br>
+            💪 VÝRAZNÉ ZDRAVOTNÍ PŘÍNOSY: Kolečkové lyže JOVE zlepší celkovou fyzickou kondici a psychickou odolnost. Stáňte se zdravějším, aktivním a šťastným člověkem!<br></br>
+            🚀 PŘIPRAVTE SE NA ZÁVODY: Rozvíjejte svou techniku, vytrvalost a rychlost pro úspěch na zimních běžeckých závodech. Kolečkové lyže JOVE jsou ideálním tréninkovým nástrojem. <br></br>
+            ⚡ AKTUÁLNÍ NABÍDKA: Nečekejte, objednejte si dnes kolečkové lyže JOVE a získejte možnost vylaserovat vlastní věnování, slogan nebo obrázek přímo na lyže.<br></br>
+            ➡️ Zvažte model lyží dle Vašeho preferovaného stylu jízdy, vysněte si barvu a objednejte na níže uvedeném e-mailu.
+
             </p>
             <hr className="mb-5 border-gray-300" />
             <div className="flex items-center space-x-2">
@@ -37,7 +44,7 @@ const Cta = () => {
             </div>
           </div>
           <div>
-            <Image src={CtaImg} className="rounded-lg" alt="svatba pár"/>
+            <Image src={CtaImg} className="rounded-lg shadow-lg" alt="svatba pár"/>
           </div>
         </div>
       </div>

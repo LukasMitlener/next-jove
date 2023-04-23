@@ -15,7 +15,7 @@ const Blog = () => {
 
             <div class="grid grid-cols-1 gap-12 md:grid-cols-2">
                 <div>
-                    <Image className="object-cover object-center w-full h-64 rounded-lg lg:h-80" src={bp1} alt="pár na kolečkovych lyžích na kopci" />
+                    <Image className="object-cover object-center w-full h-64 rounded-lg lg:h-80 shadow-lg" src={bp1} alt="pár na kolečkovych lyžích na kopci" />
 
                     <div className="mt-8">
                         <h2 className="mt-4 text-2xl font-semibold text-start">
@@ -41,11 +41,11 @@ const Blog = () => {
                 </div>
 
                 <div>
-                    <Image className="object-cover object-center w-full h-64 rounded-lg lg:h-80" src={bp2} alt="pár na kolečkových lyžích u jezera" />
+                    <Image className="object-cover object-center w-full h-64 rounded-lg lg:h-80 shadow-lg" src={bp2} alt="pár na kolečkových lyžích u jezera" />
 
                     <div className="mt-8">
                         <h2 className="mt-4 text-2xl font-semibold text-start">
-                            <Link href="/proc-zacit-jezdit-na-koleckovych-lyzich-jove" className="hover:text-gray-900">Proč začít jezdit na kolečkových lyžích JOVE?</Link>
+                            <Link href="/proc-zacit-jezdit-na-koleckovych-lyzich-jove" className="hover:text-gray-900">8 důvodů proč začít jezdit na kolečkových lyžích JOVE.</Link>
                         </h2>
 
                         <h3 className="mt-4 text-xl text-gray-700 m-0 leading-normal">
