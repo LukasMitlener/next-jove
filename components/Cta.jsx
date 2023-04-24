@@ -11,18 +11,16 @@ const Cta = () => {
 
             <div className="flex items-start">
               <h2 className="text-center md:text-start uppercase mb-6">
-                Jste připraveni zažít unikátní zážitek z <span className="text-main-blue">jízdy?</span> 
+              Chcete zlepšit svou kondici a užít si adrenalinové <span className="text-main-blue">jízdy?</span> 
                 
               </h2>
             </div>
             <p className="text-center md:text-start mb-6 text-gray-900">
-            Chcete zlepšit svou kondici a užít si adrenalinové jízdy? Pak právě teď je ten pravý čas objednat si 
-            kolečkové lyže JOVE, které přinesou zcela nový rozměr vašemu tréninku!<br></br>
             🏆 KOMFORT A VÝKON: Naše nafukovací kolečka zaručují maximální pohodlí, minimální zátěž kloubů a skvělou trakci na různých površích - za každého počasí.<br></br>
             💪 VÝRAZNÉ ZDRAVOTNÍ PŘÍNOSY: Kolečkové lyže JOVE zlepší celkovou fyzickou kondici a psychickou odolnost. Stáňte se zdravějším, aktivním a šťastným člověkem!<br></br>
             🚀 PŘIPRAVTE SE NA ZÁVODY: Rozvíjejte svou techniku, vytrvalost a rychlost pro úspěch na zimních běžeckých závodech. Kolečkové lyže JOVE jsou ideálním tréninkovým nástrojem. <br></br>
-            ⚡ AKTUÁLNÍ NABÍDKA: Nečekejte, objednejte si dnes kolečkové lyže JOVE a získejte možnost vylaserovat vlastní věnování, slogan nebo obrázek přímo na lyže.<br></br>
-            ➡️ Zvažte model lyží dle Vašeho preferovaného stylu jízdy, vysněte si barvu a objednejte na níže uvedeném e-mailu.
+            ⚡ AKTUÁLNÍ NABÍDKA: Nečekejte, objednejte si kolečkové lyže JOVE dnes a získejte možnost vylaserovat vlastní věnování, slogan nebo obrázek přímo na lyže.<br></br>
+            ➡️ Vyberte model lyží dle Vašeho preferovaného stylu jízdy, vysněte si barvu a objednejte na níže uvedeném e-mailu.
 
             </p>
             <hr className="mb-5 border-gray-300" />
