@@ -41,7 +41,7 @@ const About = () => {
             <p>
               
               Lyže prošli zátěžovou zkoužkou, když se mnou ujeli {" "}
-              <a className="pl-20" href="https://www.youtube.com/watch?v=av3Dsnsy-3s&ab_channel=lyzeJOVE" className="text-main-blue hover:text-blue-400" title='500km k Baltu na kolečkových lyžích JOVE'>
+              <a href="https://www.youtube.com/watch?v=av3Dsnsy-3s&ab_channel=lyzeJOVE" className="text-main-blue hover:text-blue-400" title='500km k Baltu na kolečkových lyžích JOVE'>
                500Km k Baltu a zpět. 
               </a>
               <br />

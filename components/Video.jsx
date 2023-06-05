@@ -8,14 +8,14 @@ const Video = () => {
               <span className="text-main-blue">JOVE </span> VE SNÍDANI S NOVOU
             </h2>
             <p className="pt-4">
-              Udělejte si ☕ a mrkněte na sice poměrně letité, ale velice informativní video
+              Uvařte si ☕ a mrkněte na sice poměrně letité, ale velice informativní video
               (lyže od té doby prošly opravdu velkým vývojem)
             </p>
           </div>
 
-          <div className="padding_video embed-responsive-16by9 relative w-full rounded-lg overflow-hidden">
+          <div className="pt-[56.25%] embed-responsive-16by9 relative w-full rounded-lg overflow-hidden shadow-2xl">
             <iframe
-              className="embed-responsive-item absolute top-0 right-0 bottom-0 left-0 w-full h-full"
+              className="embed-responsive-item absolute top-0 right-0 bottom-0 left-0 w-full h-full "
               src="https://www.youtube.com/embed/CQQ4pquG4HQ"
               allowFullScreen>
             </iframe>

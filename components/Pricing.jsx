@@ -20,33 +20,35 @@ const Pricing = () => {
 
         <div className='grid md:grid-cols-2 gap-8'>
 
-          <div className='bg-white text-slate-900 p-8 rounded-xl shadow-xl relative'>
+          <div className='bg-white p-8 rounded-xl shadow-xl relative'>
             <span className='uppercase px-3 py-1 bg-main-blue text-white rounded-2xl text-LG'>Standard</span>
             <div>
-              <p className='text-5xl font-bold py-4 flex text-black'>8 999 Kč</p>
+              <p className='text-5xl font-bold py-4 flex text-gray-700'>8 480 Kč</p>
             </div>
-            <h3>Základní model lyží.</h3>
+            <h3 className='text-2xl font-bold text-gray-700'>Základní model lyží JOVE</h3>
             <div className='text-lg'>
                 <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Unikátní jízdní vlastnosti.</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />...</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />...</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Duralové komponenty</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Nafukovací kolečka</p>
                 <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Montáž vázání.</p>
-                <p className='flex py-4'><XIcon className='w-8 mr-5 text-red-400'  />Vylepšená kolečka.</p>
+                <p className='flex py-4'><XIcon className='w-8 mr-5 text-red-400'  />Vylepšená kolečka s výplní</p>
+                <p className='flex py-4'><XIcon className='w-8 mr-5 text-red-400'  />Přední karbonový blatník</p>
             </div>
           </div>
 
           <div className='bg-white text-slate-900 p-8 rounded-xl shadow-xl relative'>
             <span className='uppercase px-3 py-1 bg-main-blue text-white rounded-2xl text-LG'>Premium</span>
             <div>
-              <p className='text-5xl font-bold py-4 flex text-black'>11 999 Kč</p>
+              <p className='text-5xl font-bold py-4 flex text-gray-700'>9 980 Kč</p>
             </div>
-            <h3>Nejnovější zdokonalený model.</h3>
+            <h3 className='text-2xl font-bold text-gray-700'>Vylepšený model JOVE  Olymp</h3>
             <div className='text-lg'>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Unikátní jízdní vlastnosti.</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />...</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />...</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Montáž vázání.</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Vylepšená kolečka.</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Unikátní jízdní vlastnosti</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Duralové komponenty</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Nafukovací kolečka</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Montáž vázání</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Vylepšená kolečka s výplní</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Odlehčený karbonový brzdový blatník</p>
             </div>
             
           </div>

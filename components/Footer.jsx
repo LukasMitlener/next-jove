@@ -21,11 +21,7 @@ const Footer = () => (
               fgColor="#3FB1FF"
               bgColor="transparent" />
             <SocialIcon 
-              url="https://www.youtube.com/"
-              fgColor="#3FB1FF"
-              bgColor="transparent" />
-            <SocialIcon 
-              url="https://www.instagram.com/lukas.mitlener/"
+              url="https://www.youtube.com/@lyzeJOVE"
               fgColor="#3FB1FF"
               bgColor="transparent" />
           </div>

@@ -18,13 +18,13 @@ const Blog = () => {
                     <Image className="object-cover object-center w-full h-64 rounded-lg lg:h-80 shadow-lg" src={bp1} alt="pár na kolečkovych lyžích na kopci" />
 
                     <div className="mt-8">
-                        <h2 className="mt-4 text-2xl font-semibold text-start">
+                        <h2 className="mt-4 text-2xl font-bold text-gray-700 text-start">
                             <Link href="/jak-se-jezdi-na-koleckovych-lyzich-a-jake-vybrat" className="  hover:text-gray-900">Jak se jezdí na kolečkových lyžích a jaké vybrat?</Link>
                         </h2>
 
-                        <h3 className="mt-4 text-xl text-gray-700 m-0 leading-normal">
+                        <p className="mt-4">
                           Běžkování v létě na suchu jako tréninková příprava na zimu. I toto jsou kolečkové lyže.
-                        </h3>
+                        </p>
 
                         <div className="flex items-center justify-between mt-4">
                             <div>
@@ -44,13 +44,13 @@ const Blog = () => {
                     <Image className="object-cover object-center w-full h-64 rounded-lg lg:h-80 shadow-lg" src={bp2} alt="pár na kolečkových lyžích u jezera" />
 
                     <div className="mt-8">
-                        <h2 className="mt-4 text-2xl font-semibold text-start">
+                        <h2 className="mt-4 text-2xl font-bold text-gray-700 text-start">
                             <Link href="/proc-zacit-jezdit-na-koleckovych-lyzich-jove" className="hover:text-gray-900">8 důvodů proč začít jezdit na kolečkových lyžích JOVE.</Link>
                         </h2>
 
-                        <h3 className="mt-4 text-xl text-gray-700 m-0 leading-normal">
+                        <p className="mt-4">
                             Klasika, skate nebo na soupaž? Jsou vhodné i do terénu? A jsou vůbec kolečkové lyže vhodné i pro začátečníky?
-                        </h3>
+                        </p>
 
                         <div className="flex items-center justify-between mt-4">
                             <div>
