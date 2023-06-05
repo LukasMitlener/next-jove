@@ -22,9 +22,12 @@ export default function Home() {
         <meta property="og:title" content="Kolečkové lyže Jove - Unikátní lyže pro letní trénink" />
         <meta property="og:description" content="Unikátní kolečkové lyže Jove nabízejí skvělé jízdní vlastnosti pro letní trénink. Mnoho barevných možností. Navrženo a vyrobeno zkušeným sportovcem." />
         <meta property="og:image" content="https://example.com/images/cool-page.jpg" />
-        <meta property="og:url" content="https://example.com" />
+        <meta property="og:url" content="https://jove-rollerski.com" />
         <meta property="og:type" content="website" />
-        <link rel="icon" href="../assets/favicon.ico"></link>
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="manifest" href="/site.webmanifest" />
       </Head>
       <Navbar />
       <Hero />
