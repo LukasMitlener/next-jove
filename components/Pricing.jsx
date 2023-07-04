@@ -1,5 +1,4 @@
-import { CheckIcon, XIcon } from '@heroicons/react/solid';
-
+import React from 'react'
 
 const Pricing = () => {
   return (
@@ -17,45 +16,116 @@ const Pricing = () => {
             voluptatum iste.
           </p> */}
         </div>
+        <table className="w-full">
+          <caption className="sr-only">Pricing plan comparison</caption>
+          
+          <tbody className="space-y-6 text-center divide-y divide-gray-700">
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 font-bold text-lg md:text-2xl">Typ lyží</h3>
+              </th>
+              <td>
+                <span className="font-bold text-lg md:text-2xl text-gray-700"><span className="text-main-blue">JOVE</span> FullSkate</span>
+              </td>
+              <td>
+                <span className="font-bold text-lg md:text-2xl text-gray-700"><span className="text-main-blue">JOVE</span> Skate</span>
+              </td>
+              <td>
+                <span className="font-bold text-lg md:text-2xl text-gray-700"><span className="text-main-blue">JOVE</span> Classic</span>
+              </td>
+            </tr>
 
-        <div className='grid md:grid-cols-2 gap-8'>
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 font-bold text-lg md:text-2xl">Cena (bez DPH)</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  3 000 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  7 000 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  8 400 Kč
+                </p>
+              </th>
+            </tr>
 
-          <div className='bg-white p-8 rounded-xl shadow-xl relative'>
-            <span className='uppercase px-3 py-1 bg-main-blue text-white rounded-2xl text-LG'>Standard</span>
-            <div>
-              <p className='text-5xl font-bold py-4 flex text-gray-700'>8 480 Kč</p>
-            </div>
-            <h3 className='text-2xl font-bold text-gray-700'>Základní model lyží JOVE</h3>
-            <div className='text-lg'>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Unikátní jízdní vlastnosti.</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Duralové komponenty</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Nafukovací kolečka</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Montáž vázání.</p>
-                <p className='flex py-4'><XIcon className='w-8 mr-5 text-red-400'  />Vylepšená kolečka s výplní</p>
-                <p className='flex py-4'><XIcon className='w-8 mr-5 text-red-400'  />Přední karbonový blatník</p>
-            </div>
-          </div>
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 font-bold text-lg md:text-2xl">Cena včetně vázání</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  ?
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  8 400 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  9 800 Kč
+                </p>
+              </th>
+            </tr>
 
-          <div className='bg-white text-slate-900 p-8 rounded-xl shadow-xl relative'>
-            <span className='uppercase px-3 py-1 bg-main-blue text-white rounded-2xl text-LG'>Premium</span>
-            <div>
-              <p className='text-5xl font-bold py-4 flex text-gray-700'>9 980 Kč</p>
-            </div>
-            <h3 className='text-2xl font-bold text-gray-700'>Vylepšený model JOVE  Olymp</h3>
-            <div className='text-lg'>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Unikátní jízdní vlastnosti</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Duralové komponenty</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Nafukovací kolečka</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Montáž vázání</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Vylepšená kolečka s výplní</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-main-blue'  />Odlehčený karbonový brzdový blatník</p>
-            </div>
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 font-bold text-lg md:text-2xl">Náhradní nafukovací kolečko</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  ?
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  550 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  1 250 Kč
+                </p>
+              </th>
+            </tr>
+
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 font-bold text-lg md:text-2xl">Náhradní ložisko</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  ?
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  90 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                  350 Kč
+                </p>
+              </th>
+            </tr>
             
-          </div>
-        </div>
+          </tbody>
+        </table>
+        <p className='text-sm md:text-lg'>* Další náhradní díly: plné kolečko - 600 Kč, duše - 80 Kč, plášť - 300 Kč, opěrka k brzdě - 80 Kč, přední blatník - 80 Kč, brzda-zadní blatník - 300 Kč, osička ke kolu - 70 Kč</p>
+        
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Pricing;
+export default Pricing
