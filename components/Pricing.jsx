@@ -62,7 +62,7 @@ const Pricing = () => {
               </th>
               <th scope="col">
                 <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
-                  ?
+                  4400 Kč
                 </p>
               </th>
               <th scope="col">
@@ -83,7 +83,7 @@ const Pricing = () => {
               </th>
               <th scope="col">
                 <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
-                  ?
+                  550 Kč
                 </p>
               </th>
               <th scope="col">
@@ -104,7 +104,7 @@ const Pricing = () => {
               </th>
               <th scope="col">
                 <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
-                  ?
+                  90 Kč
                 </p>
               </th>
               <th scope="col">
