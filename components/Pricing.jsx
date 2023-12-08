@@ -25,19 +25,19 @@ const Pricing = () => {
                 <h3 className="py-3 font-bold text-lg md:text-2xl">Typ lyží</h3>
               </th>
               <td>
-                <span className="font-bold text-lg md:text-2xl text-gray-700"><span className="text-main-blue">JOVE</span> FullSkate</span>
+                <span className="font-bold text-lg md:text-2xl text-gray-700"><span className="text-main-blue">JOVE</span> FullSkate</span><p className="mt-2 text-sm md:text-lg text-gray-700">plná kolečka, <span className='text-xl md:text-3xl'>⌀</span>100mm</p>
               </td>
               <td>
-                <span className="font-bold text-lg md:text-2xl text-gray-700"><span className="text-main-blue">JOVE</span> Skate</span>
+                <span className="font-bold text-lg md:text-2xl text-gray-700"><span className="text-main-blue">JOVE</span> Skate</span><p className="mt-2 text-sm md:text-lg text-gray-700">nafukovací kolečka, <span className='text-xl md:text-3xl'>⌀</span>150mm</p>
               </td>
               <td>
-                <span className="font-bold text-lg md:text-2xl text-gray-700"><span className="text-main-blue">JOVE</span> Classic</span>
+                <span className="font-bold text-lg md:text-2xl text-gray-700"><span className="text-main-blue">JOVE</span> Classic</span><p className="mt-2 text-sm md:text-lg text-gray-700">nafukovací kolečka, <span className='text-xl md:text-3xl'>⌀</span>150mm</p>
               </td>
             </tr>
 
             <tr>
               <th scope="row" className="text-left">
-                <h3 className="py-3 font-bold text-lg md:text-2xl">Cena (bez DPH)</h3>
+                <h3 className="py-3 font-bold text-lg md:text-2xl">Cena jednoho páru</h3>
               </th>
               <th scope="col">
                 <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
@@ -79,20 +79,20 @@ const Pricing = () => {
 
             <tr>
               <th scope="row" className="text-left">
-                <h3 className="py-3 font-bold text-lg md:text-2xl">Náhradní nafukovací kolečko</h3>
+                <h3 className="py-3 text-base md:text-xl">Náhradní kolečko</h3>
               </th>
               <th scope="col">
-                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  350 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
                   550 Kč
                 </p>
               </th>
               <th scope="col">
-                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
-                  550 Kč
-                </p>
-              </th>
-              <th scope="col">
-                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
                   1 250 Kč
                 </p>
               </th>
@@ -100,28 +100,174 @@ const Pricing = () => {
 
             <tr>
               <th scope="row" className="text-left">
-                <h3 className="py-3 font-bold text-lg md:text-2xl">Náhradní ložisko</h3>
+                <h3 className="py-3 text-base md:text-xl">Náhradní ložisko</h3>
               </th>
               <th scope="col">
-                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
                   90 Kč
                 </p>
               </th>
               <th scope="col">
-                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
-                  90 Kč
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  120 Kč
                 </p>
               </th>
               <th scope="col">
-                <p className="mb-3 font-semibold text-base md:text-2xl text-gray-700">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
                   350 Kč
                 </p>
               </th>
             </tr>
-            
+
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 text-base md:text-xl">Náhradní duše</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  x
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  90 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  90 Kč
+                </p>
+              </th>
+            </tr>
+
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 text-base md:text-xl">Náhradní plášť</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  x
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  400 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  400 Kč
+                </p>
+              </th>
+            </tr>
+
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 text-base md:text-xl">Náhradní opěrka k brzdě</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  x
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  80 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  80 Kč
+                </p>
+              </th>
+            </tr>
+
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 text-base md:text-xl">Náhradní přední blatník</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  x
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  80 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  80 Kč
+                </p>
+              </th>
+            </tr>
+
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 text-base md:text-xl">Náhradní karbonový přední blatník</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  x
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  350 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  350 Kč
+                </p>
+              </th>
+            </tr>
+
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 text-base md:text-xl">Náhradní brzda - zadní blatník</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  x
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  x
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  600 Kč
+                </p>
+              </th>
+            </tr>
+
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 text-base md:text-xl">Náhradní osička ke kolu</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  75 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  75 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  75 Kč
+                </p>
+              </th>
+            </tr>
           </tbody>
         </table>
-        <p className='text-sm md:text-lg'>* Další náhradní díly: plné kolečko - 600 Kč, duše - 80 Kč, plášť - 300 Kč, opěrka k brzdě - 80 Kč, přední blatník - 80 Kč, brzda-zadní blatník - 300 Kč, osička ke kolu - 70 Kč</p>
+        <p className='text-sm md:text-lg'>* Uvedené ceny jsou bez 21% DPH. Při odběru více párů lze dohodnout slevu.</p>
         
       </div>
     </div>
