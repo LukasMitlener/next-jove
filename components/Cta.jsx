@@ -26,7 +26,7 @@ const Cta = () => {
                 &#128222; 
               </p>
               <p className='pr-12'>
-                123456789
+                737840857
               </p>
 
               <p className="flex items-center">
