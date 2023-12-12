@@ -15,7 +15,7 @@ const Cta = () => {
             </div>
             <p className="text-center  md:text-start mb-6 text-gray-900">💪 VÝRAZNÉ ZDRAVOTNÍ PŘÍNOSY: Kolečkové lyže JOVE zlepší celkovou fyzickou kondici a psychickou odolnost. Stáňte se zdravějším, aktivním a šťastným člověkem!</p>
             <p className="text-center  md:text-start mb-6 text-gray-900">🚀 PŘIPRAVTE SE NA ZÁVODY: Rozvíjejte svou techniku, vytrvalost a rychlost pro úspěch na zimních běžeckých závodech. Kolečkové lyže JOVE jsou ideálním tréninkovým nástrojem. </p>
-            <p className="text-center  md:text-start mb-6 text-gray-900">🏆 KOMFORT A VÝKON: Naše nafukovací kolečka zaručují maximální pohodlí, minimální zátěž kloubů a skvělou trakci na různých površích - za každého počasí.</p>
+            <p className="text-center  md:text-start mb-6 text-gray-900">🏆 KOMFORT A VÝKON: Naše nafukovací kolečka zaručují maximální pohodlí, minimální zátěž kloubů a skvělou přilnavostí na různých površích - za každého počasí.</p>
             <p className="text-center  md:text-start mb-6 text-gray-900">➡️ Vyberte model lyží dle Vašeho preferovaného stylu jízdy, vyberte si z nabídky barev a objednejte na níže uvedeném e-mailu.</p>
             <p className="text-center  md:text-start mb-6 text-gray-900">⚡ AKTUÁLNÍ NABÍDKA: Nečekejte, objednejte si kolečkové lyže JOVE dnes a získejte možnost vylaserovat vlastní věnování, slogan nebo obrázek přímo na lyže.</p>
 

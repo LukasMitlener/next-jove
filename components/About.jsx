@@ -40,7 +40,7 @@ const About = () => {
             <br />
             <p>
               
-              Lyže prošli zátěžovou zkoužkou, když se mnou ujeli {" "}
+              Lyže prošly zátěžovou zkoužkou, když s Pepou ujely {" "}
               <a href="https://www.youtube.com/watch?v=av3Dsnsy-3s&ab_channel=lyzeJOVE" className="text-main-blue hover:text-blue-400" title='500km k Baltu na kolečkových lyžích JOVE'>
                500Km k Baltu a zpět. 
               </a>
