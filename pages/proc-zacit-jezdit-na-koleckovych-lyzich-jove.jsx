@@ -44,7 +44,7 @@ const clanek2 = () => {
             <p>Kolečkové lyže JOVE jsou dokonalým tréninkovým nástrojem pro zimní běžecké závody. Rozvíjejí vaši techniku, zlepšují vytrvalost a zvyšují rychlost – všechny klíčové faktory pro úspěch na sněhu.</p>
             <br></br>
             <h2 className='text-start'>5. Únik do přírody</h2>
-            <p>S kolečkovými lyžemi JOVE se můžete vydat do přírody a užít si klid a krásu, které nabízí. Je to skvělá příležitost pro meditativní únik od každodenního shonu a stresu. Ponořte se do harmonie přírody a naplňte svůj duch klidem a pohodou.</p>
+            <p>S kolečkovými lyžemi JOVE se můžete vydat do přírody a užít si klid a krásu, které nabízí. Je to skvělá příležitost pro meditativní únik od každodenního shonu a stresu. Ponořte se do harmonie přírody a naplňte svoji duši klidem a pohodou.</p>
             <br></br>
             <h2 className='text-start'>6. Flexibilita tréninku</h2>
             <p>S kolečkovými lyžemi JOVE si můžete vybrat různé úrovně intenzity a způsoby tréninku. Přizpůsobte si jízdu podle svých potřeb a cílů – ať už chcete zlepšit kondici, zhubnout nebo se jen uvolnit a užít si jízdu. Možností je nespočet!</p>
