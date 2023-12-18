@@ -226,12 +226,7 @@ const Pricing = () => {
 
             <tr>
               <th scope="row" className="text-left">
-                <h3 className="py-3 text-base md:text-xl">Náhradní brzda - zadní blatník</h3>
-              </th>
-              <th scope="col">
-                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
-                  x
-                </p>
+                <h3 className="py-3 text-base md:text-xl">Náhradní brzda - zadní blatník karbonový</h3>
               </th>
               <th scope="col">
                 <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
@@ -241,6 +236,32 @@ const Pricing = () => {
               <th scope="col">
                 <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
                   600 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  600 Kč
+                </p>
+              </th>
+            </tr>
+
+            <tr>
+              <th scope="row" className="text-left">
+                <h3 className="py-3 text-base md:text-xl">Náhradní brzda - zadní blatník duralový</h3>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  x
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  400 Kč
+                </p>
+              </th>
+              <th scope="col">
+                <p className="mb-3 font-semibold text-sm md:text-xl text-gray-500">
+                  400 Kč
                 </p>
               </th>
             </tr>

@@ -32,10 +32,7 @@ const About = () => {
             </p>
             <br />
             <p>Výrobce Josef Vejnar chtěl vytvořit kolečkové lyže pro skate, které se pocitově 
-              blíží lyžování na sněhu a umožňují bezúdržbový provoz. K dispozici jsou kolečkové
-              lyže kombi s volnoběžkovými ložisky pro odraz a možností brzdy pro jízdu na špatných
-              cestách. Tyto lyže nabízejí simulaci bruslařské techniky a umožňují přejezd různých
-              profilů a kvalit cest. 
+              blíží lyžování na sněhu a umožňují bezúdržbový provoz. Nabízíme především kolečkové lyže na bruslení. Tyto  skatové  kolečkové lyže, stejně jako  kolečkové lyže na klasiku s volnoběžkovými ložisky pro odraz, jsou výborné pro jízdu na špatných cestách. Věrně napodobují techniku jízdy na lyžích na sněhu a umožňují přejezd různých profilů a kvalit cest s možností regulovat rychlost jízdy díky unikátním brzdám. 
             </p>
             <br />
             <p>
