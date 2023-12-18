@@ -64,7 +64,7 @@ const clanek2 = () => {
             <h4 className="text-lg font-semibold">Další články</h4>
             <ul className="ml-4 space-y-1 list-disc">
               <li>
-                <Link rel="noopener noreferrer" href="/clanek1" className="hover:underline">Jak se jezdí na kolečkových lyžích a jaké vybrat?</Link>
+                <Link rel="noopener noreferrer" href="/jak-se-jezdi-na-koleckovych-lyzich-a-jake-vybrat" className="hover:underline">Jak se jezdí na kolečkových lyžích a jaké vybrat?</Link>
               </li>
             </ul>
           </div>
